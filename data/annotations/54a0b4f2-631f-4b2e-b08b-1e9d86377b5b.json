@@ -1,5 +1,299 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 24,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bieke is the name the Caribs, one of the indigenous peoples that lived in the Caribbean prior to and during Spanish colonization, gave to the island of Vieques. While Taínos, another indigenous group of the Caribbean that lived prior to and during Spanish colonization in the present-day Puerto Rican archipelago, continue to inspire contemporary Puerto Rican identity, in Vieques the Caribs are revered as righteous resisters of colonization and are a major part of Viequense self-image and history. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Historical Information"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultural Context"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vieques"
+        }
+      ],
+      "uuid": "e83d602f-a393-47b2-94b9-b42fd4cd3f1c"
+    },
+    {
+      "start_time": 40,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Vieques, the patron saint festival dedicated to the Virgen del Carmen happens in July. This five day long festival culminates on Sunday with a carnival featuring a parade. Patron saint festivals are celebrated throughout Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultural Context"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carnival"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vieques"
+        }
+      ],
+      "uuid": "6ecd85f0-dfe1-4f96-9510-f6cc5173364c"
+    },
+    {
+      "start_time": 77,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bomba and plena are two distinct but closely related Afro-Puerto Rican dance and music traditions derived from West African culture. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultural Context"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "e9dd8544-9873-47b7-b07f-0fe748a9ac9b"
+    },
+    {
+      "start_time": 144,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Around 1917, the first major wave of Puerto Rican migration to St. Croix, many from Vieques, was catalyzed by the sugar cane industry, with the West Indian Surgar Company's recruitment of Puerto Rican labor. The second significant wave occured in 1927, when the shrinking economy of Vieques and its neighboring island municipality of P.R., Culebra, forced residents to look elsewhere for work. Puerto Ricans were granted U.S. citizenship in 1917, the same year the US Virgin Islands were purchased by the U.S. In 1927, Virgin Islanders were granted U.S. citizenship. With virtually no immigration restrictions between St. Croix and Vieques, people could move relatively freely. The U.S. Navy's arrival and the start of its widespread expropriation campaign in Vieques, led to another sizeable wave of Viequense migration to St. Croix in the 1940s. Finally, in the latter half of the 20th century, waves of Viequense migration to St. Croix continued as industrialization in the USVI brought the Hess Oil refinery, recruiting more Puerto Rican labor. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Historical Information"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vieques"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "St. Croix"
+        }
+      ],
+      "uuid": "caa02688-9654-4d26-a869-881bf9f1667a"
+    },
+    {
+      "start_time": 202,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the speaker, Will Colón, describes, the children in the steel band from St. Croix that traveled to Vieques in 1957 were children of Viequenses whose land had been expropriated by the U.S. Navy. The expropriation of land and ensuing migration of colonial subjects in Vieques to St. Croix reflects the movement of people within the periphery of U.S. empire due to structural disregard for Viequense self-determination and land via colonialism. I use the term colonial subjects because it reflects the subjugation the U.S. government imposed via the U.S. Navy. In turn, these colonial histories manifest in performance. In this case, through a steel band composed of a diasporic Viequense community in St. Croix. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Historical Information"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Calypso"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "US Navy"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vieques"
+        }
+      ],
+      "uuid": "6fda708c-c4b1-4fce-a05b-cb78d464877d"
+    },
+    {
+      "start_time": 300,
+      "end_time": 336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ismael Guadalupe—an educator and prominent leader in the movement against U.S. Navy occupation in Vieques—recounts how Crucians traveled across the sea to attend Vieques' carnival and patron saint festivities. Viequenses also traveled to St. Croix to attend their carnival. This exchange of music and celebration was reciprocal. As expressed through the performance(s) of calypso and carnival, this exchange further evidences the spirit of \"hermandad,\" or brotherliness, between Crucians and Viequenses that Guadalupe describes. This connection and these performances can be broadly understood as performances of solidarity.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carnival"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Calypso"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vieques"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Solidarity"
+        }
+      ],
+      "uuid": "d973319f-12ef-4eed-926a-06a488bb7359"
+    },
+    {
+      "start_time": 445,
+      "end_time": 455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The U.S. Virgin Islands are composed of the islands of St. Thomas, St. Croix, and St. John. St. Thomas is home to the capital, Charlotte Amalie, and lies roughly 33 miles from Vieques. St. Croix and St. John are roughly 50 miles from Vieques. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Historical Information"
+        }
+      ],
+      "uuid": "4872ba9b-dec7-448b-9c09-c504303f265b"
+    },
+    {
+      "start_time": 683,
+      "end_time": 710,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Examples of calypso inspired music created by Puerto Rican and Cuban-American artists mentioned by the speaker:\n\nDon Omar - Feeling Hot (2013): https://www.youtube.com/watch?v=MHkKsFScOUU\n• This song sample's \"Feeling Hot Hot Hot\" as popularized by the Merrymen, a group from Barbados, in the 1980s: https://www.youtube.com/watch?v=9RmHTMDBN_0 \n\nPitbull - Shake Señora (2011): https://www.youtube.com/watch?v=AmuKdoe8MvI \n• This song samples from the calypso song titled \"Jump in the Line,\" which was popularized by Harry Belafonte, U.S.-born son of Jamaican parents, in 1961: https://www.youtube.com/watch?v=7TVWqykzibc \n\nDaddy Yankee - Lovumba (2011): https://www.youtube.com/watch?v=9TeyuDnwyrw&list=RD9TeyuDnwyrw&start_radio=1 \n• Infusing calypso-inspired rhythms with reggaeton, this song became one of the top charting songs when it was released in 2011. Its global reach is exemplifed in its translation into Hindi: https://www.youtube.com/watch?v=8pQuEKryNAM&list=RD8pQuEKryNAM&start_radio=1 "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Calypso"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultural Context"
+        }
+      ],
+      "uuid": "77365ee8-cc1f-4925-8c7e-222ab7dcf733"
+    },
+    {
+      "start_time": 711,
+      "end_time": 750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In tracing the arrival of calypso to Vieques from Trinidad and Tobago via the U.S. Virgin Islands, especially St. Croix, and how this music imbues Vieques' carnival with the rhythms and dances seen in carnivals in parts of the anglophone and francophone Caribbean, we witness a pan-Caribbean expression. In the convergence of calypso and carnival performances, we see not only a performance of solidarity between St. Croix and Vieques, but also one that connects the Puerto Rican archipelago to the broader Caribbean, disrupting borders formed along racial and linguistic lines. As artists from the main island of Puerto Rico, like Daddy Yankee, and other parts of the Caribbean and its diaspora, like Pitbull, draw inspiration from calypso artists in islands like Barbados, fusing them with reggaeton and other genres, a pan-Caribbean sound is created. In this music and its embodied performances we find a solidarity that refute the divisions created by colonialism and continued coloniality."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Calypso"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Carnival"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vieques"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultural Context"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Solidarity"
+        }
+      ],
+      "uuid": "46ba2cdc-bea6-42e5-b399-7c5f2af6f71b"
+    }
+  ],
   "set": "Default",
   "event_id": "6c27ebb9-2390-4654-8468-dd0db1d9e556",
   "source_id": "29720633-e584-456a-9a17-1e76b9af8b79"
