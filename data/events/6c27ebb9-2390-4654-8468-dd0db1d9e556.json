@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "29720633-e584-456a-9a17-1e76b9af8b79": {
+      "label": "Short Film: Vieques, manos arriba",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=_Nl2Xn1rn2w",
+      "duration": 824
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Short Film: Vieques, manos arriba",
+  "created_at": "2025-11-11T18:30:18.188Z",
+  "created_by": "DarinelleMC",
+  "updated_at": "2025-11-11T18:30:18.188Z",
+  "updated_by": "DarinelleMC"
+}
