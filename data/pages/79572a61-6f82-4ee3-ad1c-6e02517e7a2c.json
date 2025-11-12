@@ -9,8 +9,16 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "image",
-      "url": "https://share.google/images/mEuXYptkbH4o1v6p4",
+      "url": "<iframe src=\"https://archive.org/embed/perforwhat-studies-diana-raznovich\" width=\"560\" height=\"384\" frameborder=\"0\" webkitallowfullscreen=\"true\" mozallowfullscreen=\"true\" allowfullscreen></iframe>",
       "caption": "PerFORwhat Studies? Drawing by Diana Raznovich",
       "children": [
         {
@@ -80,7 +88,7 @@
   "created_by": "DarinelleMC",
   "title": "What is Performance Studies?",
   "slug": "what-is-performance-studies",
-  "updated_at": "2025-11-12T16:07:05.704Z",
+  "updated_at": "2025-11-12T16:18:47.162Z",
   "updated_by": "DarinelleMC",
   "parent": "84eb233c-25c8-47a9-b001-da232ca51a19",
   "autogenerate": {
