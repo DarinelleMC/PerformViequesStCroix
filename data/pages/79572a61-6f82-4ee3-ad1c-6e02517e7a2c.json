@@ -4,21 +4,30 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "What is Performance Studies? ",
+          "textSize": "heading-one",
+          "bold": true
         }
       ]
     },
     {
-      "type": "event",
-      "uuid": "48c6b811-53bd-49e1-8cb9-c289f6c31874",
-      "includes": [
-        "media",
-        "annotations",
-        "description"
+      "type": "grid",
+      "layout": [
+        6
       ],
       "children": [
         {
-          "text": ""
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Performance Studies is an interdisciplinary field that lies at the intersection of anthropology and theater and dance studies. "
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -31,79 +40,27 @@
       ]
     },
     {
-      "type": "grid",
-      "layout": [
-        4,
-        2
-      ],
+      "type": "paragraph",
       "children": [
         {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Why Performance? ",
-                  "bold": true
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "bold": true,
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "bold": true,
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        },
+          "textSize": "heading-one",
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "48c6b811-53bd-49e1-8cb9-c289f6c31874",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
         {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "uuid": "48c6b811-53bd-49e1-8cb9-c289f6c31874",
-              "includes": [
-                "media",
-                "annotations",
-                "label",
-                "description"
-              ],
-              "type": "event",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
+          "text": ""
         }
       ]
     },
@@ -118,9 +75,9 @@
   ],
   "created_at": "2025-11-11T18:30:18.530Z",
   "created_by": "DarinelleMC",
-  "title": "Why Performance?",
-  "slug": "why-performance",
-  "updated_at": "2025-11-12T14:43:27.633Z",
+  "title": "What is Performance Studies?",
+  "slug": "what-is-performance-studies",
+  "updated_at": "2025-11-12T14:50:01.911Z",
   "updated_by": "DarinelleMC",
   "parent": "84eb233c-25c8-47a9-b001-da232ca51a19",
   "autogenerate": {
