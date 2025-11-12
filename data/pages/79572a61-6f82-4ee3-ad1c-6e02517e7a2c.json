@@ -4,30 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "What is Performance Studies? ",
-          "textSize": "heading-one",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        6
-      ],
-      "children": [
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Performance Studies is an interdisciplinary field that lies at the intersection of anthropology and theater and dance studies. "
-                }
-              ]
-            }
-          ]
+          "text": "Performance Studies is an interdisciplinary field that lies at the intersection of anthropology and theater and dance studies. "
         }
       ]
     },
@@ -77,7 +54,7 @@
   "created_by": "DarinelleMC",
   "title": "What is Performance Studies?",
   "slug": "what-is-performance-studies",
-  "updated_at": "2025-11-12T14:50:01.911Z",
+  "updated_at": "2025-11-12T14:53:27.600Z",
   "updated_by": "DarinelleMC",
   "parent": "84eb233c-25c8-47a9-b001-da232ca51a19",
   "autogenerate": {
