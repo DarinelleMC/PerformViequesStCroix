@@ -79,6 +79,29 @@
                   "text": ""
                 }
               ]
+            },
+            {
+              "uuid": "48c6b811-53bd-49e1-8cb9-c289f6c31874",
+              "includes": [
+                "media",
+                "annotations",
+                "label",
+                "description"
+              ],
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -97,7 +120,7 @@
   "created_by": "DarinelleMC",
   "title": "Why Performance?",
   "slug": "why-performance",
-  "updated_at": "2025-11-12T14:39:11.424Z",
+  "updated_at": "2025-11-12T14:43:27.633Z",
   "updated_by": "DarinelleMC",
   "parent": "84eb233c-25c8-47a9-b001-da232ca51a19",
   "autogenerate": {
