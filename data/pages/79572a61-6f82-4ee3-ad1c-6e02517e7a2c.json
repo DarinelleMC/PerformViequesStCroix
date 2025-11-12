@@ -108,12 +108,11 @@
   "created_by": "DarinelleMC",
   "title": "What is Performance Studies?",
   "slug": "what-is-performance-studies",
-  "updated_at": "2025-11-12T16:26:53.876Z",
+  "updated_at": "2025-11-12T16:37:35.615Z",
   "updated_by": "DarinelleMC",
-  "parent": "84eb233c-25c8-47a9-b001-da232ca51a19",
   "autogenerate": {
     "enabled": false,
-    "type": "event",
+    "type": "home",
     "type_id": "48c6b811-53bd-49e1-8cb9-c289f6c31874"
   }
 }
