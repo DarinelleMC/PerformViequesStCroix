@@ -4,6 +4,32 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://share.google/images/mEuXYptkbH4o1v6p4",
+      "caption": "PerFORwhat Studies? Drawing by Diana Raznovich",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Performance Studies is an interdisciplinary field that lies at the intersection of anthropology and theater and dance studies. "
         }
       ]
@@ -54,7 +80,7 @@
   "created_by": "DarinelleMC",
   "title": "What is Performance Studies?",
   "slug": "what-is-performance-studies",
-  "updated_at": "2025-11-12T14:53:27.600Z",
+  "updated_at": "2025-11-12T16:07:05.704Z",
   "updated_by": "DarinelleMC",
   "parent": "84eb233c-25c8-47a9-b001-da232ca51a19",
   "autogenerate": {
