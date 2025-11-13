@@ -113,6 +113,75 @@
       ]
     },
     {
+      "uuid": "f8b10570-6522-4c5e-9d8d-7c4d9a671789",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "b4061c85-55e2-4087-86a0-314749420d66",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "5a1633a7-655f-4ef3-bb91-d879097aa40a",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -129,6 +198,6 @@
   "slug": "conclusion",
   "created_at": "2025-11-13T22:23:16.467Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-11-13T22:32:47.472Z",
+  "updated_at": "2025-11-13T22:44:13.694Z",
   "updated_by": "DarinelleMC"
 }
