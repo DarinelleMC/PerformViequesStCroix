@@ -52,7 +52,8 @@
       "children": [
         {
           "bold": true,
-          "text": "What is Performance Studies?"
+          "text": "What is Performance Studies?",
+          "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/what-is-performance-studies/"
         }
       ]
     },
@@ -61,7 +62,8 @@
       "children": [
         {
           "bold": true,
-          "text": "The U.S. Navy: Occupation and Protest"
+          "text": "The U.S. Navy: Occupation and Protest",
+          "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/the-us-navy-occupation-and-protest/"
         }
       ]
     },
@@ -70,7 +72,40 @@
       "children": [
         {
           "bold": true,
-          "text": "Calypso and Carnival"
+          "text": "   • "
+        },
+        {
+          "text": "Protest on May 19,1979"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "   • The U.S. Navy in Vieques: Trouble in Paradise (20/20 Eyewitness News)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Calypso and Carnival",
+          "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/calypso-and-carnival/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "   • "
+        },
+        {
+          "text": "Vieques, Manos Arriba"
         }
       ]
     },
@@ -80,6 +115,14 @@
         {
           "bold": true,
           "text": "U.S. Virgin Islands and Puerto Rico Friendship Day"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "   • "
         }
       ]
     },
@@ -463,7 +506,7 @@
   "created_at": "2025-11-11T18:24:01.461Z",
   "created_by": "DarinelleMC",
   "title": "Vieques and St. Croix: Performing Solidarity in the Periphery of the U.S. Empire",
-  "updated_at": "2025-11-13T22:25:49.977Z",
+  "updated_at": "2025-11-13T22:29:59.816Z",
   "updated_by": "DarinelleMC",
   "autogenerate": {
     "enabled": false,
