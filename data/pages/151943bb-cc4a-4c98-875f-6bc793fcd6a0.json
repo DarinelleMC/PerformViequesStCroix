@@ -29,13 +29,310 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Calypso inspired songs by reggaeton artists mentioned in ",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": "Vieques, manos arriba:",
+          "bold": true,
+          "underline": true,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Don Omar's 2013 song, ",
+          "bold": true
+        },
+        {
+          "text": "Feeling Hot",
+          "italic": true,
+          "bold": true
+        },
+        {
+          "text": ", samples and calls back to The Merrymen's 1984 song, ",
+          "bold": true
+        },
+        {
+          "text": "Feeling Hot Hot Hot.",
+          "italic": true,
+          "bold": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "f94a9168-eac1-4c4c-b8cd-285460addbe9",
+              "includes": [
+                "media",
+                "annotations",
+                "label"
+              ],
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "e05079d6-6fa9-4434-8555-348d1a690a9e",
+              "includes": [
+                "media",
+                "annotations",
+                "label"
+              ],
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pitbull's 2011 song, ",
+          "bold": true
+        },
+        {
+          "text": "Shake Señora,",
+          "italic": true,
+          "bold": true
+        },
+        {
+          "text": " samples and calls back to the 1961 song, ",
+          "bold": true
+        },
+        {
+          "text": "Jump in the Line,",
+          "italic": true,
+          "bold": true
+        },
+        {
+          "text": " popularized by Harry Belafonte.",
+          "bold": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "46354586-7fae-4e7a-914a-a111e69786eb",
+              "includes": [
+                "media",
+                "annotations",
+                "label"
+              ],
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "24dc1a5c-e346-44b1-a4ca-47ad285b27a4",
+              "includes": [
+                "media",
+                "annotations",
+                "label"
+              ],
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2025-11-11T18:30:18.446Z",
   "created_by": "DarinelleMC",
   "title": "Short Film: Vieques, manos arriba",
   "slug": "short-film-vieques-manos-arriba",
-  "updated_at": "2025-11-12T16:38:42.396Z",
+  "updated_at": "2025-11-14T03:20:25.789Z",
   "updated_by": "DarinelleMC",
   "parent": "c1b2d843-ffea-4076-9642-385a635b8d66",
   "autogenerate": {
