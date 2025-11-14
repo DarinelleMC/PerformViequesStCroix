@@ -127,9 +127,7 @@
       "uuid": "48c6b811-53bd-49e1-8cb9-c289f6c31874",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "annotations"
       ],
       "type": "event",
       "children": [
@@ -151,7 +149,7 @@
   "created_by": "DarinelleMC",
   "title": "What is Performance Studies?",
   "slug": "what-is-performance-studies",
-  "updated_at": "2025-11-14T03:38:50.019Z",
+  "updated_at": "2025-11-14T20:10:11.984Z",
   "updated_by": "DarinelleMC",
   "autogenerate": {
     "enabled": false,
