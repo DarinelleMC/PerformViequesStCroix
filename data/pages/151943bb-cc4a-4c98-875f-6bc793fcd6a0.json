@@ -142,6 +142,29 @@
                   "text": ""
                 }
               ]
+            },
+            {
+              "uuid": "447d0f3f-1cae-4e90-9630-5ac19c299696",
+              "includes": [
+                "media",
+                "annotations",
+                "label",
+                "description"
+              ],
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         },
@@ -150,6 +173,29 @@
           "children": [
             {
               "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "e65e3bce-761f-457f-99c5-7fa207043e48",
+              "includes": [
+                "media",
+                "annotations",
+                "label",
+                "description"
+              ],
+              "type": "event",
               "children": [
                 {
                   "text": ""
@@ -237,6 +283,29 @@
                   "text": ""
                 }
               ]
+            },
+            {
+              "uuid": "5c1ce3be-f0d1-4a91-bf21-20fd704044a3",
+              "includes": [
+                "media",
+                "annotations",
+                "label",
+                "description"
+              ],
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         },
@@ -245,6 +314,37 @@
           "children": [
             {
               "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "b832b15f-3f3c-4af5-b63d-838e174e0d91",
+              "includes": [
+                "media",
+                "annotations",
+                "label",
+                "description"
+              ],
+              "type": "event",
               "children": [
                 {
                   "text": ""
@@ -276,7 +376,7 @@
   "created_by": "DarinelleMC",
   "title": "Short Film: Vieques, manos arriba",
   "slug": "short-film-vieques-manos-arriba",
-  "updated_at": "2025-11-14T03:42:03.822Z",
+  "updated_at": "2025-11-14T03:52:28.206Z",
   "updated_by": "DarinelleMC",
   "parent": "c1b2d843-ffea-4076-9642-385a635b8d66",
   "autogenerate": {
