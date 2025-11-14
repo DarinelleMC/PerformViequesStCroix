@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "15c7cacf-745a-4ec3-adb0-c51ef478a2ef": {
+      "label": "Harry Belafonte - Jump in the Line (1961)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=7TVWqykzibc",
+      "duration": 218
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Harry Belafonte - Jump in the Line (1961)",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3:38"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-11-14T03:14:22.766Z",
+  "created_by": "DarinelleMC",
+  "updated_at": "2025-11-14T03:14:22.766Z",
+  "updated_by": "DarinelleMC"
+}
