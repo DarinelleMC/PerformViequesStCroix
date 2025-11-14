@@ -28,98 +28,153 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
       "children": [
         {
-          "text": "Table of Contents",
-          "bold": true,
-          "textSize": "heading-one",
-          "underline": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Introduction: A Brief History",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "bold": true,
-          "text": "What is Performance Studies?"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "bold": true,
-          "text": "The U.S. Navy: Occupation and Protest"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "bold": true,
-          "text": "   • "
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Table of Contents",
+                  "underline": true,
+                  "textSize": "heading-one",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Introduction: A Brief History",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What is Performance Studies?",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The U.S. Navy: Occupation and Protest",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "   • Protest on May 19,1979",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "   • The U.S. Navy in Vieques: Trouble in Paradise",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Calypso and Carnival",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "   • Vieques, Manos Arriba",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "U.S. Virgin Islands and Puerto Rico Friendship Day",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "   • ",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Conclusion",
+                  "textSize": "heading-four"
+                }
+              ]
+            }
+          ]
         },
         {
-          "text": "Protest on May 19,1979"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "   • The U.S. Navy in Vieques: Trouble in Paradise (20/20 Eyewitness News)"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "bold": true,
-          "text": "Calypso and Carnival"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "bold": true,
-          "text": "   • "
-        },
-        {
-          "text": "Vieques, Manos Arriba"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "bold": true,
-          "text": "U.S. Virgin Islands and Puerto Rico Friendship Day"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "   • "
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The goal of this project",
+                  "bold": true
+                },
+                {
+                  "text": " is to showcase the ways solidarity between the island municipality of Vieques, Puerto Rico and the U.S. Virgin Island of St. Croix is performed. Consciously or not, the performances in this project, ranging from protest to music to collective celebrations, disrupt the coloniality and colonialism that oftentimes divides colonial subjects within the U.S. empire. Performance, as Diana Taylor teaches us, can be an act of transmission. Performance, as deployed within this project, does not label embodiment as inauthentic or \"false.\" Rather performance is used to describe the acts of transmission that convey knowledge, affect, and solidarity between Crucians and Viequenses; and Puerto Ricans and Virgin Islanders more broadly. Circumscribed within the historical and contemporary context of U.S. colonial rule, these performances show how people relate to each other in the periphery, both social and geographical, of empire. I do not aim to romanticize the struggles of Crucians and Viequenses. There are real material conditions that subjugate these communities."
+                }
+              ],
+              "align": "left"
+            },
+            {
+              "type": "paragraph",
+              "align": "left",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "left",
+              "children": [
+                {
+                  "text": "Yet, within this fraught context, I look to performance to highlight the acts of care via embodied solidarity that disrupt the coloniality of being, the coloniality of power, and the colonialism of contemporary empire."
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -128,7 +183,7 @@
       "children": [
         {
           "bold": true,
-          "text": "Conclusion"
+          "text": ""
         }
       ]
     },
@@ -503,7 +558,7 @@
   "created_at": "2025-11-11T18:24:01.461Z",
   "created_by": "DarinelleMC",
   "title": "Vieques and St. Croix: Performing Solidarity in the Periphery of the U.S. Empire",
-  "updated_at": "2025-11-14T03:38:34.117Z",
+  "updated_at": "2025-11-14T14:57:23.470Z",
   "updated_by": "DarinelleMC",
   "autogenerate": {
     "enabled": false,
