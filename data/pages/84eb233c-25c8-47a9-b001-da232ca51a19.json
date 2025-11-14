@@ -151,7 +151,7 @@
                   "bold": true
                 },
                 {
-                  "text": " is to showcase the ways solidarity between the island municipality of Vieques, Puerto Rico and the U.S. Virgin Island of St. Croix is performed. Consciously or not, the performances in this project, ranging from protest to music to collective celebrations, disrupt the coloniality and colonialism that oftentimes divides colonial subjects within the U.S. empire. Performance, as Diana Taylor teaches us, can be an act of transmission. Performance, as deployed within this project, does not label embodiment as inauthentic or \"false.\" Rather performance is used to describe the acts of transmission that convey knowledge, affect, and solidarity between Crucians and Viequenses; and Puerto Ricans and Virgin Islanders more broadly. Circumscribed within the historical and contemporary context of U.S. colonial rule, these performances show how people relate to each other in the periphery, both social and geographical, of empire. I do not aim to romanticize the struggles of Crucians and Viequenses. There are real material conditions that subjugate these communities."
+                  "text": " is to showcase the ways solidarity between the island municipality of Vieques, Puerto Rico and the U.S. Virgin Island of St. Croix is performed. Consciously or not, the performances in this project, ranging from protest to music to collective celebrations, disrupt the coloniality and colonialism that oftentimes divides colonial subjects within the U.S. empire. Performance, as Diana Taylor teaches us, can be understood as acts of transmission. Performance, as deployed within this project, does not label embodiment as \"inauthentic\" or \"false.\" Rather, performance is used to describe the acts of transmission that convey knowledge, affect, and solidarity between Crucians and Viequenses; and Puerto Ricans and Virgin Islanders more broadly. Circumscribed within the historical and contemporary context of U.S. colonial rule, these performances show how people relate to each other in the periphery, both social and geographical, of empire. I do not aim to romanticize the struggles of Crucians and Viequenses. There are real material colonial conditions that subjugate these communities."
                 }
               ],
               "align": "left"
@@ -239,7 +239,8 @@
               "children": [
                 {
                   "text": "Vieques",
-                  "bold": true
+                  "bold": true,
+                  "underline": true
                 }
               ],
               "align": "center"
@@ -259,7 +260,7 @@
               "align": "left",
               "children": [
                 {
-                  "text": "Vieques is an island municipality of the U.S. Commonwealth of Puerto Rico. "
+                  "text": "Vieques is an island municipality of the U.S. Commonwealth of Puerto Rico.  "
                 }
               ]
             },
@@ -372,7 +373,8 @@
               "children": [
                 {
                   "text": "St. Croix",
-                  "bold": true
+                  "bold": true,
+                  "underline": true
                 }
               ],
               "align": "center"
@@ -558,7 +560,7 @@
   "created_at": "2025-11-11T18:24:01.461Z",
   "created_by": "DarinelleMC",
   "title": "Vieques and St. Croix: Performing Solidarity in the Periphery of the U.S. Empire",
-  "updated_at": "2025-11-14T14:57:23.470Z",
+  "updated_at": "2025-11-14T14:59:35.551Z",
   "updated_by": "DarinelleMC",
   "autogenerate": {
     "enabled": false,
