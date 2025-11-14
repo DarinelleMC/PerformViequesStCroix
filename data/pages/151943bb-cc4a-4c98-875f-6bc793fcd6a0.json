@@ -73,15 +73,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Refer to ",
+          "text": "Refer to annotation at 11:23 for context.",
           "italic": true
-        },
-        {
-          "text": "annotation"
-        },
-        {
-          "italic": true,
-          "text": " at 11:23 for context."
         }
       ]
     },
@@ -234,7 +227,7 @@
   "created_by": "DarinelleMC",
   "title": "Short Film: Vieques, manos arriba",
   "slug": "short-film-vieques-manos-arriba",
-  "updated_at": "2025-11-14T04:08:11.384Z",
+  "updated_at": "2025-11-14T04:12:38.920Z",
   "updated_by": "DarinelleMC",
   "parent": "c1b2d843-ffea-4076-9642-385a635b8d66",
   "autogenerate": {
