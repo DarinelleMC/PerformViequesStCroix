@@ -52,8 +52,7 @@
       "children": [
         {
           "bold": true,
-          "text": "What is Performance Studies?",
-          "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/what-is-performance-studies/"
+          "text": "What is Performance Studies?"
         }
       ]
     },
@@ -62,8 +61,7 @@
       "children": [
         {
           "bold": true,
-          "text": "The U.S. Navy: Occupation and Protest",
-          "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/the-us-navy-occupation-and-protest/"
+          "text": "The U.S. Navy: Occupation and Protest"
         }
       ]
     },
@@ -92,8 +90,7 @@
       "children": [
         {
           "bold": true,
-          "text": "Calypso and Carnival",
-          "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/calypso-and-carnival/"
+          "text": "Calypso and Carnival"
         }
       ]
     },
@@ -506,7 +503,7 @@
   "created_at": "2025-11-11T18:24:01.461Z",
   "created_by": "DarinelleMC",
   "title": "Vieques and St. Croix: Performing Solidarity in the Periphery of the U.S. Empire",
-  "updated_at": "2025-11-13T22:29:59.816Z",
+  "updated_at": "2025-11-14T03:38:34.117Z",
   "updated_by": "DarinelleMC",
   "autogenerate": {
     "enabled": false,
