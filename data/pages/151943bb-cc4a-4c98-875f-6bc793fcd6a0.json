@@ -147,9 +147,7 @@
               "uuid": "447d0f3f-1cae-4e90-9630-5ac19c299696",
               "includes": [
                 "media",
-                "annotations",
-                "label",
-                "description"
+                "label"
               ],
               "type": "event",
               "children": [
@@ -191,9 +189,7 @@
               "uuid": "e65e3bce-761f-457f-99c5-7fa207043e48",
               "includes": [
                 "media",
-                "annotations",
-                "label",
-                "description"
+                "label"
               ],
               "type": "event",
               "children": [
@@ -288,9 +284,7 @@
               "uuid": "5c1ce3be-f0d1-4a91-bf21-20fd704044a3",
               "includes": [
                 "media",
-                "annotations",
-                "label",
-                "description"
+                "label"
               ],
               "type": "event",
               "children": [
@@ -332,9 +326,7 @@
               "uuid": "b832b15f-3f3c-4af5-b63d-838e174e0d91",
               "includes": [
                 "media",
-                "annotations",
-                "label",
-                "description"
+                "label"
               ],
               "type": "event",
               "children": [
@@ -368,7 +360,7 @@
   "created_by": "DarinelleMC",
   "title": "Short Film: Vieques, manos arriba",
   "slug": "short-film-vieques-manos-arriba",
-  "updated_at": "2025-11-14T03:53:05.426Z",
+  "updated_at": "2025-11-14T03:55:42.713Z",
   "updated_by": "DarinelleMC",
   "parent": "c1b2d843-ffea-4076-9642-385a635b8d66",
   "autogenerate": {
