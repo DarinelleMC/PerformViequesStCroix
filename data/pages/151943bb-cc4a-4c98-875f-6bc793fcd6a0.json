@@ -59,13 +59,15 @@
         {
           "text": "Calypso inspired songs by reggaeton artists mentioned in ",
           "bold": true,
-          "underline": true
+          "underline": true,
+          "textSize": "heading-two"
         },
         {
           "text": "Vieques, manos arriba:",
           "bold": true,
           "underline": true,
-          "italic": true
+          "italic": true,
+          "textSize": "heading-two"
         }
       ]
     },
@@ -227,7 +229,7 @@
   "created_by": "DarinelleMC",
   "title": "Short Film: Vieques, manos arriba",
   "slug": "short-film-vieques-manos-arriba",
-  "updated_at": "2025-11-14T15:04:36.125Z",
+  "updated_at": "2025-11-14T15:08:35.333Z",
   "updated_by": "DarinelleMC",
   "parent": "c1b2d843-ffea-4076-9642-385a635b8d66",
   "autogenerate": {
