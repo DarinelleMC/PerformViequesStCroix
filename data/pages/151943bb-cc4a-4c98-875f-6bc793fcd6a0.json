@@ -9,12 +9,7 @@
       ]
     },
     {
-      "type": "event",
-      "uuid": "6c27ebb9-2390-4654-8468-dd0db1d9e556",
-      "includes": [
-        "media",
-        "annotations"
-      ],
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -22,7 +17,13 @@
       ]
     },
     {
-      "type": "paragraph",
+      "uuid": "6c27ebb9-2390-4654-8468-dd0db1d9e556",
+      "includes": [
+        "media",
+        "annotations",
+        "label"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -227,7 +228,7 @@
   "created_by": "DarinelleMC",
   "title": "Short Film: Vieques, manos arriba",
   "slug": "short-film-vieques-manos-arriba",
-  "updated_at": "2025-11-14T04:12:38.920Z",
+  "updated_at": "2025-11-14T14:48:06.837Z",
   "updated_by": "DarinelleMC",
   "parent": "c1b2d843-ffea-4076-9642-385a635b8d66",
   "autogenerate": {
