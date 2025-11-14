@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "f94a9168-eac1-4c4c-b8cd-285460addbe9",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-11-14T03:14:23.352Z",
   "created_by": "DarinelleMC",
   "title": "Don Omar - Feeling Hot (2013)",
   "slug": "don-omar-feeling-hot-2013",
-  "updated_at": "2025-11-14T03:14:23.352Z",
+  "updated_at": "2025-11-14T03:14:34.485Z",
   "updated_by": "DarinelleMC",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "f94a9168-eac1-4c4c-b8cd-285460addbe9"
   }
