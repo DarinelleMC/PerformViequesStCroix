@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "c6d92391-5b54-48b7-811c-e4a1934cedab": {
+      "label": "Pitbull - Shake Señora (2011)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=AmuKdoe8MvI",
+      "duration": 215
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Pitbull - Shake Señora (2011)",
+  "created_at": "2025-11-14T03:51:01.584Z",
+  "created_by": "DarinelleMC",
+  "updated_at": "2025-11-14T03:51:01.584Z",
+  "updated_by": "DarinelleMC"
+}
