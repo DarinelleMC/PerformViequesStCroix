@@ -109,7 +109,7 @@
           "bold": true
         },
         {
-          "text": "Feeling Hot Hot Hot.",
+          "text": "Feeling Hot Hot Hot. ",
           "italic": true,
           "bold": true
         }
@@ -117,121 +117,47 @@
       "align": "center"
     },
     {
-      "type": "grid",
-      "layout": [
-        3,
-        3
-      ],
-      "children": [
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "bold": true,
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "uuid": "447d0f3f-1cae-4e90-9630-5ac19c299696",
-              "includes": [
-                "media",
-                "label"
-              ],
-              "type": "event",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "uuid": "e65e3bce-761f-457f-99c5-7fa207043e48",
-              "includes": [
-                "media",
-                "label"
-              ],
-              "type": "event",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "type": "paragraph",
+      "align": "center",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Pitbull's 2011 song, ",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media"
+      ],
+      "event1": {
+        "uuid": "447d0f3f-1cae-4e90-9630-5ac19c299696"
+      },
+      "event2": {
+        "uuid": "e65e3bce-761f-457f-99c5-7fa207043e48"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "bold": true,
+          "text": "Pitbull's 2011 song, "
         },
         {
           "text": "Shake Señora,",
@@ -251,99 +177,32 @@
           "text": " popularized by Harry Belafonte.",
           "bold": true
         }
-      ],
-      "align": "center"
+      ]
     },
     {
-      "type": "grid",
-      "layout": [
-        3,
-        3
-      ],
+      "type": "paragraph",
+      "align": "center",
       "children": [
         {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "uuid": "5c1ce3be-f0d1-4a91-bf21-20fd704044a3",
-              "includes": [
-                "media",
-                "label"
-              ],
-              "type": "event",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        },
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media"
+      ],
+      "event1": {
+        "uuid": "5c1ce3be-f0d1-4a91-bf21-20fd704044a3"
+      },
+      "event2": {
+        "uuid": "b832b15f-3f3c-4af5-b63d-838e174e0d91"
+      },
+      "type": "event-comparison",
+      "children": [
         {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "uuid": "b832b15f-3f3c-4af5-b63d-838e174e0d91",
-              "includes": [
-                "media",
-                "label"
-              ],
-              "type": "event",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
+          "text": ""
         }
       ]
     },
@@ -360,7 +219,7 @@
   "created_by": "DarinelleMC",
   "title": "Short Film: Vieques, manos arriba",
   "slug": "short-film-vieques-manos-arriba",
-  "updated_at": "2025-11-14T03:55:42.713Z",
+  "updated_at": "2025-11-14T03:59:51.547Z",
   "updated_by": "DarinelleMC",
   "parent": "c1b2d843-ffea-4076-9642-385a635b8d66",
   "autogenerate": {
