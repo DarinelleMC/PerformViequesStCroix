@@ -268,7 +268,7 @@
               "align": "left",
               "children": [
                 {
-                  "text": "Puerto Rico is an archipelago, composed primarily of three inhabited islands: the main island, or “Big Island” as it is commonly referred to, and two island municipalities off the eastern coast, Culebra and Vieques. Puerto Rico was ruled by the Spanish from 1493 until 1898, when, after the Spanish-American War, Puerto Rico became a possession of the U.S. A series of cases known as the Insular Cases in the early 20th century deemed P.R. an unincorporated territory. In 1917, Puerto Ricans were granted U.S. citizenship. Puerto Ricans can serve in the U.S. military and, upon receiving citizenship in 1917, were included in any military drafts enacted by the federal government. Until 1948, every governor of Puerto Rico was appointed by the president of the U.S. In 1948, Puerto Rico elected its first governor and in 1952 it was granted commonwealth status. To this day it maintains this status which deprives it of many of the rights and liberties enjoyed by the 50 states of the U.S. As a U.S. Commonwealth and unincorporated territory, Puerto Ricans cannot vote for president, do not have voting members in the U.S. congress, and are subject to U.S. laws. Disenfranchisement and a slew of other policies and apparatuses (e.g. an unelected and federally appointed fiscal oversight board that manages the archipelago's finances) demonstrate a colonial relationship between the U.S. and Puerto Rico. "
+                  "text": "Puerto Rico (P.R.) is an archipelago, composed primarily of three inhabited islands: the main island, or “Big Island” as it is commonly referred to, and two island municipalities off the eastern coast, Culebra and Vieques. P.R. was ruled by the Spanish from 1493 until 1898, when, after the Spanish-American War, it became a possession of the U.S. A series of cases known as the Insular Cases in the early 20th century deemed P.R. an unincorporated territory. In 1917, Puerto Ricans were granted U.S. citizenship. Puerto Ricans can serve in the U.S. military and, upon receiving citizenship in 1917, were included in any military drafts enacted by the federal government. Until 1948, every governor of Puerto Rico was appointed by the president of the U.S. In 1948, P.R. elected its first governor and in 1952 it was granted commonwealth status. To this day it maintains this status which deprives it of many of the rights and liberties enjoyed by the 50 states of the U.S. As a commonwealth and unincorporated territory, Puerto Ricans cannot vote for president, do not have voting members in the U.S. congress, and are subject to U.S. laws. Disenfranchisement and a slew of other policies and apparatuses (e.g. an unelected and federally appointed fiscal oversight board that manages the archipelago's finances) demonstrate a colonial relationship between the U.S. and Puerto Rico. "
                 }
               ]
             },
@@ -286,7 +286,16 @@
               "align": "left",
               "children": [
                 {
-                  "text": "According to the U.S. 2020 census, Vieques' population is approximately 8,200. Vieques is derived from Bieke, meaning small island, name the indigenous population bestowed upon the island. As in many parts of the Caribbean, the indigenous Taínos and Caribs inhabited Vieques prior to and during colonization. Spanish is predominantly spoken in Vieques and the rest of Puerto Rico. "
+                  "text": "According to the 2020 U.S. census, Vieques' population is approximately 8,200. Vieques is derived from Bieke, meaning \"small island,\" the name the indigenous population bestowed upon the island. As in many parts of the Caribbean, the indigenous Taínos and Caribs inhabited Vieques prior to and during Spanish colonization. Spanish is predominantly spoken in Vieques and the rest of P.R. Diaspora groups, such as the Chinese and Haitian diaspora, however, reside throughout the archipelago and speak their mother tongues. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "left",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -348,7 +357,25 @@
               "align": "left",
               "children": [
                 {
-                  "text": "St. Croix is the largest island of the three main islands composing the U.S. Virgin Islands, an unincorporated U.S. territory. St. Croix, however, has been ruled by England, Spain, France, the Knights of Malta, Holland, and Denmark. The Danish purchased St. Croix in 1733, uniting it with the other Danish West Indies islands of St. John and St. Thomas. After decades of negotiation and talks, the U.S. purchased the Danish West Indies for $25 million in 1917—the same year Puerto Ricans were granted citizenship. It would not be until 1927, however, that U.S. Virgin Islanders were granted citizenship. Like Puerto Rico and other U.S. territories, Virgin Islanders cannot vote for president, do not have voting members in the U.S. congress, and are subject to U.S. laws. As in P.R., Virgin Islanders can serve in the U.S. military and are subject to military drafts. This juridical-political framework demonstrates a colonial relationship between the U.S. and the U.S. Virgin Islands. "
+                  "text": "St. Croix is the largest island of the three main islands composing the U.S. Virgin Islands, an unincorporated U.S. territory. St. Croix, however, has been ruled by England, Spain, France, the Knights of Malta, Holland, and Denmark. The Danish purchased St. Croix in 1733, uniting it with the other Danish West Indies islands of St. John and St. Thomas. After decades of negotiation and talks, the U.S. purchased the Danish West Indies for $25 million in 1917—the same year Puerto Ricans were granted citizenship. It would not be until 1927, however, that U.S. Virgin Islanders were granted citizenship. The U.S. Virgin Islands elected its first governor in 1970. Prior to 1970, the governor was appointed by the president of the U.S. Like P.R. and other U.S. territories, Virgin Islanders cannot vote for president, do not have voting members in the U.S. congress, and are subject to U.S. laws. As in P.R., Virgin Islanders can serve in the U.S. military and are subject to military drafts. This juridical-political framework demonstrates a colonial relationship between the U.S. and the U.S. Virgin Islands. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "left",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "left",
+              "children": [
+                {
+                  "text": "According to the 2020 U.S. census, St. Croix's population was approximately 41,000. Like in Vieques and other parts of the Caribbean, the indigenous Taínos and Caribs inhabited St. Croix prior to and during European colonization. English is the predominant language in the U.S. Virgin Islands, including St. Croix. A large diaspora from the hispanic Caribbean (including Puerto Ricans) and francophone Caribbean resides in St. Croix, making Spanish and French Creole prominent languages on the island. "
                 }
               ]
             },
@@ -367,15 +394,6 @@
               "children": [
                 {
                   "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "align": "left",
-              "children": [
-                {
-                  "text": "According to the U.S. 2020 census, St. Croix's population was approximately 41,000. Like in Vieques and other parts of the Caribbean, the indigenous Taínos and Caribs inhabited St. Croix prior to and during European colonization. English is the predominant language in the U.S. Virgin Islands, including St. Croix. A large diaspora from the hispanic Caribbean (including Puerto Ricans) and francophone Caribbean exists in St. Croix, making Spanish and French Creole prominent languages on the island. "
                 }
               ]
             },
@@ -487,7 +505,7 @@
   "created_at": "2025-11-11T18:24:01.461Z",
   "created_by": "DarinelleMC",
   "title": "Vieques and St. Croix: Performing Solidarity in the Periphery of the U.S. Empire",
-  "updated_at": "2025-11-14T19:46:52.349Z",
+  "updated_at": "2025-11-14T19:57:24.160Z",
   "updated_by": "DarinelleMC",
   "autogenerate": {
     "enabled": false,
