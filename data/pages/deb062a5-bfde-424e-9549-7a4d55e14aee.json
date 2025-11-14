@@ -12,6 +12,32 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/VIPRSeal2016.png",
+      "caption": "",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "The histories, struggles, music, dance, carnivals, and an endless number of ties unit St. Croix and Vieques. Performances, whether it be a protest, calypso, carnival, or USVI-PR Friendship Day, demonstrate a sense of solidarity through embodied acts that transmit the joyous and, at times, painful pasts and presents that will inform Crucian and Viequense futures. "
         }
       ]
@@ -97,7 +123,8 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Sugar Pathways (2010)"
+              "text": "Sugar Pathways (2010)",
+              "link": "https://www.youtube.com/watch?v=UUIU-0a6L6c"
             }
           ]
         },
@@ -105,7 +132,24 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Vieques: An Island Forging Futures "
+              "text": "Vieques: An Island Forging Futures (2001)",
+              "link": "https://www.youtube.com/watch?v=CVqTsN5kYHs"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": ""
             }
           ]
         }
@@ -120,6 +164,6 @@
   "slug": "conclusion",
   "created_at": "2025-11-13T22:23:16.467Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-11-14T03:40:05.715Z",
+  "updated_at": "2025-11-14T14:43:30.273Z",
   "updated_by": "DarinelleMC"
 }
