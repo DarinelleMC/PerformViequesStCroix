@@ -87,7 +87,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "   • Protest on May 19,1979",
+                  "text": "    • Protest on May 19,1979",
                   "textSize": "heading-four"
                 }
               ]
@@ -96,7 +96,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "   • The U.S. Navy in Vieques: Trouble in Paradise",
+                  "text": "    • The U.S. Navy in Vieques: Trouble in Paradise",
                   "textSize": "heading-four"
                 }
               ]
@@ -114,7 +114,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "   • Vieques, Manos Arriba",
+                  "text": "    • Vieques, Manos Arriba",
                   "textSize": "heading-four"
                 }
               ]
@@ -132,7 +132,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "   • ",
+                  "text": "    • ",
                   "textSize": "heading-four"
                 }
               ]
@@ -425,6 +425,15 @@
               ]
             },
             {
+              "type": "paragraph",
+              "align": "left",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "image",
               "url": "https://www.mapsland.com/maps/north-america/us-virgin-islands/large-road-map-of-st-croix-island-us-virgin-islands-with-other-marks.jpg",
               "caption": "Map of St. Croix",
@@ -505,7 +514,7 @@
   "created_at": "2025-11-11T18:24:01.461Z",
   "created_by": "DarinelleMC",
   "title": "Vieques and St. Croix: Performing Solidarity in the Periphery of the U.S. Empire",
-  "updated_at": "2025-11-14T19:57:24.160Z",
+  "updated_at": "2025-11-14T20:00:51.623Z",
   "updated_by": "DarinelleMC",
   "autogenerate": {
     "enabled": false,
