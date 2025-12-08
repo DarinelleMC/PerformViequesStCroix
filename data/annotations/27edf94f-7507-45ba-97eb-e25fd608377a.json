@@ -1,1 +1,172 @@
-{"annotations":[],"set":"Default","event_id":"bdf806f5-c648-4735-b0b4-340b695b8cd8","source_id":"9a1f49eb-fc7b-4867-a3bf-65f755f041e9"}
+{
+  "annotations": [
+    {
+      "start_time": 543,
+      "end_time": 554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Although Viequense resistance had been present since formal Navy arrival in the 1940s, an organized civil disobedience led by the Vieques Fishermen Association began in 1978. The anti-Navy protest held on Manuelqui, also known as Blue Beach, was part of this growing movement. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Protest"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Historical Information"
+        },
+        {
+          "category": "US Military or Government",
+          "tag": "US Navy"
+        }
+      ],
+      "uuid": "9cc550e0-afa4-4025-965e-788bbf4a4514"
+    },
+    {
+      "start_time": 559,
+      "end_time": 578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The speaker in the video, Emilia, mentions that military police did not want to arrest Viequenses. Although she does not mention the Crucian present specifically, a delegation of roughly two dozen Crucians had traveled from St. Croix to participate in the protest. Emilia herself was arrested on May 19th and was part of the Vieques 21. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Protest"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "US Military or Government",
+          "tag": "US Navy"
+        }
+      ],
+      "uuid": "a0371261-84f1-403d-ba73-f5b75055ec67"
+    },
+    {
+      "start_time": 593,
+      "end_time": 599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Monseñor Parilla, whose full name was Antulio Parrilla Bonilla, was a bishop from the main island of Puerto Rico who was arrested for his participation in the May 19th protest."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Protest"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Historical Information"
+        },
+        {
+          "category": "US Military or Government",
+          "tag": "US Navy"
+        }
+      ],
+      "uuid": "e0e2cf25-cbb0-4df9-81e1-24eb920506ef"
+    },
+    {
+      "start_time": 600,
+      "end_time": 633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Isabel Rosado Morales, a Puerto Rican nationalist, was 71 when she participated in the May 19th protest. By 1979, she had already served over 12 years of prison time for her involvement in the Puerto Rican nationalist movement. She was arrested, and later released, on May 19th. A photo of Isabel Rosado Morales being carried by three policemen and one police woman made the front page of the New York Times and spurred indignation at the treatment she had received. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Protest"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Historical Information"
+        },
+        {
+          "category": "US Military or Government",
+          "tag": "US Navy"
+        }
+      ],
+      "uuid": "1baa18f9-cf82-4119-8b9e-85d3c3e12454"
+    },
+    {
+      "start_time": 718,
+      "end_time": 776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angel Rodriguez Cristobal was from the main island of Puerto Rico, a member of the Puerto Rican Socialist League, farmer, father, and husband. The speaker, Wilfredo Vélez describes Angel's participation on May 19th. Angel was sentenced to 6 months in prison for protesting on May 19th. He was found dead in his Florida jail cell in November, 1979. Official reports stated he committed suicide. Many, including Wilfredo, did not believe he committed suicide. Conflicting reports from inmates in the same Tallahassee prison as Angel put into question his death. To this day, many believe he was murdered. The Vieques Fisherman Association honored Angel by erecting a statue in his memory in Vieques. The statue remains there today. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Protest"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Historical Information"
+        },
+        {
+          "category": "US Military or Government",
+          "tag": "US Navy"
+        }
+      ],
+      "uuid": "90fa9dcd-a2ff-4fce-81ed-ea287ab81f4f"
+    }
+  ],
+  "set": "Default",
+  "event_id": "bdf806f5-c648-4735-b0b4-340b695b8cd8",
+  "source_id": "9a1f49eb-fc7b-4867-a3bf-65f755f041e9"
+}
