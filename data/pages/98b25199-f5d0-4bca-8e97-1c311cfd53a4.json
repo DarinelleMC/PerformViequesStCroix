@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "bdf806f5-c648-4735-b0b4-340b695b8cd8",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-12-08T00:43:41.506Z",
   "created_by": "DarinelleMC",
   "title": "May 19, 1979 - Vieques 21",
   "slug": "may-19-1979-vieques-21",
-  "updated_at": "2025-12-08T00:43:41.506Z",
+  "updated_at": "2025-12-08T00:43:52.294Z",
   "updated_by": "DarinelleMC",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "bdf806f5-c648-4735-b0b4-340b695b8cd8"
   }
