@@ -1,0 +1,95 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "On Saturday, May 19, 1979,",
+          "bold": true
+        },
+        {
+          "text": " over 150"
+        },
+        {
+          "type": "link",
+          "url": "applewebdata://DF9A20DE-44B4-4275-818E-39053F911713#_ftn1",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "fishermen, students, religious leaders, elders, and other civilians staged an encampment on a beach in Vieques, Puerto Rico (P.R.) to protest the United States (U.S.) Navy and its use of the beach for bombardment exercises. As protesters congregated for prayer, military police arrived by land, sea, and air. Twenty-one people were arrested and transported to the Roosevelt Roads Naval Base in the southeastern part of the main island of P.R."
+        },
+        {
+          "type": "link",
+          "url": "applewebdata://DF9A20DE-44B4-4275-818E-39053F911713#_ftn2",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Those arrested later became known as the “Vieques 21.” My attention turns to one group of detainees, however. Of the twenty-one detained, six were residents of the U.S. Virgin Island (USVI) of St. Croix. The six Crucians, who would later be known as the Crucian Crusaders, had been part of a delegation of roughly two dozen Crucians that had traveled to Vieques to participate in the protest."
+        },
+        {
+          "type": "link",
+          "url": "applewebdata://DF9A20DE-44B4-4275-818E-39053F911713#_ftn3",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I turn to the anti-Navy May 19th protest to highlight how Crucians, alongside many other protesters, embodied solidarity on May 19, 1979. Although the following video does not present a Crucian perspective of the events on May 19, 1979, it does help us imagine what happened during the protest and the embodied solidarity Crucians might have performed."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "bdf806f5-c648-4735-b0b4-340b695b8cd8",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "start": 540,
+      "end": 777,
+      "file": "9a1f49eb-fc7b-4867-a3bf-65f755f041e9",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "May 19, 1979 - The Vieques 21 and Crucian Presence",
+  "parent": "31aba0ba-4360-4637-8428-28782652ecb5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "may-19-1979-the-vieques-21-and-crucian-pre",
+  "created_at": "2025-12-08T00:49:55.845Z",
+  "created_by": "DarinelleMC",
+  "updated_at": "2025-12-08T00:49:55.845Z",
+  "updated_by": "DarinelleMC"
+}
