@@ -61,11 +61,27 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Performance Studies is",
+                  "text": "Performance studies is",
                   "bold": true
                 },
                 {
-                  "text": " an interdisciplinary field that lies at the intersection of anthropology and theater and dance studies. "
+                  "text": " an interdisciplinary field that lies at the intersection of several disciplines, including anthropology, dance and theater studies, sociolinguistics, and gender studies. Performance studies foregrounds embodied knowledge and approaches what constitutes performance in broad terms. Diana Taylor regards performance as acts of transmission that transfer memory, knowledge, and identity through citational behavior, or what Richard Schechner calls twice-behaved behavior. From everday acts to artistic productions to collective expressions, performance encompasses a wide range of embodied, citational behaviors. Performance studies also provides a methodological framework that allows us to interrogate events as performances within contextualized space, place, history, and systems of power. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The video below in which Richard Schechner talks of performance, elucidates how else performance studies functions as both theory, methodology, and practice. "
                 }
               ]
             }
@@ -149,7 +165,7 @@
   "created_by": "DarinelleMC",
   "title": "What is Performance Studies?",
   "slug": "what-is-performance-studies",
-  "updated_at": "2025-11-14T20:10:11.984Z",
+  "updated_at": "2025-12-09T19:02:51.087Z",
   "updated_by": "DarinelleMC",
   "autogenerate": {
     "enabled": false,
