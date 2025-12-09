@@ -318,6 +318,42 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "It is imperative to underscore the level of coordination the May 19th anti-Navy protest entailed by all parties involved. The choreographed use of space, place, and bodies performed resistance in conscious, coordinated, and collective ways. Focusing on Crucian involvement, their participation embodied a refusal of the colonial borderlands the U.S. empire and coloniality create. Crucian participation required flying from St. Croix to Vieques, then sailing into the Navy’s zone, and the embodied action of setting up tents and/or participating in prayer. Once on the beach, the building of an encampment and collective prayer performed a reclaiming of Viequense land in a literal sense and, for those who prayed, a holy sanctioning of their anti-Navy struggle. Aware of the dangers, they chose to defy the scripts U.S. law and discourses imposed. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Performing solidarity is not to be romanticized. Under empire, solidarity often comes at a high price—one Ángel Rodríguez Cristóbal paid with his life. On November 11, 1979, Ángel Rodríguez Cristóbal, a main islander Puerto Rican and one of the Vieques 21, was found dead in his Florida jail cell as he served a six-month sentence for his participation on May 19th."
+        },
+        {
+          "type": "link",
+          "url": "applewebdata://3963CD7F-E876-44B9-8484-5981B82FA882#_ftn1",
+          "children": [
+            {
+              "text": "[12]"
+            }
+          ]
+        },
+        {
+          "text": " Many believed and still believe Ángel was murdered. Official prison and government accounts proclaimed his death a suicide. Today, he continues to be remembered as a beloved martyr. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         },
         {
@@ -331,6 +367,85 @@
         },
         {
           "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://ia800303.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/bulletin-january-february-1980/BulletinJanuaryFebruary1980_jp2.zip&file=BulletinJanuaryFebruary1980_jp2/BulletinJanuaryFebruary1980_0000.jp2&id=bulletin-january-february-1980&scale=8&rotate=0",
+              "caption": "Bulletin from 1980 commemorating Ángel Rodríguez Cristóbal",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5ZiMkNAtB-DIXVN1SBluorTM3wQne6ZX2XBRW8sNjWt8k5H1eU9URrrwPtdcpdAKoCw0fDXcFvt5PAuwiBbs3LzGGgWzpo-5pwv8tgXkJiyufJdRRTvWTE5iRh4B22GXnZ4S7Enda7_Y/s1600/vieques.jpg",
+              "caption": "Monument dedicated to Ángel in Vieques",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -642,6 +757,33 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "applewebdata://3963CD7F-E876-44B9-8484-5981B82FA882#_ftnref1",
+          "children": [
+            {
+              "text": "[12]"
+            }
+          ]
+        },
+        {
+          "text": " Alejandro Molina, “November 12, 1979, Chicago IL Event Commemorating the Assassination of Angel Rodríguez Cristobal,” "
+        },
+        {
+          "text": "Puerto Rican Cultural Center",
+          "italic": true
+        },
+        {
+          "text": ", February 19, 2023, https://prcc-chgo.org/2023/02/19/november-12-1979-chicago-il-event-commemorating-the-assassination-of-angel-rodriguez-cristobal/. Other sources also state date of death as November 10th, such as in the New Movement in Solidarity with Puerto Rican Independence’s bulletin from 1980. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "        "
         },
         {
@@ -668,6 +810,6 @@
   "slug": "may-19-1979-the-vieques-21-and-crucian-pre",
   "created_at": "2025-12-08T00:49:55.845Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-12-09T20:27:46.206Z",
+  "updated_at": "2025-12-09T20:46:50.205Z",
   "updated_by": "DarinelleMC"
 }
