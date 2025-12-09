@@ -32,7 +32,7 @@
           ]
         },
         {
-          "text": "Those arrested later became known as the “Vieques 21.” My attention turns to one group of detainees, however. Of the twenty-one detained, six were residents of the U.S. Virgin Island (USVI) of St. Croix. The six Crucians, who would later be known as the Crucian Crusaders, had been part of a delegation of roughly two dozen Crucians that had traveled to Vieques to participate in the protest (Figure 1)."
+          "text": "Those arrested later became known as the “Vieques 21.” My attention turns to one group of detainees, however. Of the twenty-one detained, six were residents of the U.S. Virgin Island (USVI) of St. Croix. The six Crucians, who would later be known as the Crucian Crusaders, had been part of a delegation of roughly two dozen Crucians that had traveled to Vieques to participate in the protest."
         },
         {
           "type": "link",
@@ -45,6 +45,14 @@
         },
         {
           "text": "I turn to the anti-Navy May 19th protest to highlight how Crucians, alongside many other protesters, embodied solidarity on May 19, 1979. Although the following video does not present a Crucian perspective of the events on May 19, 1979, it does help us imagine what happened during the protest and the embodied solidarity Crucians might have performed."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -120,7 +128,7 @@
           ]
         },
         {
-          "text": " The Crucians did not return to St. Croix until Monday—two days after being arrested (Figure 2). The Crucians’ attorney filed a suit against the San Juan magistrate and clerks, citing Crucian rights had been violated. “According to a report on the incident heard on Puerto Rican station Channel 2’s evening newscast, the strange legal proceedings may have been a ‘pressure tactic’ used to persuade Crucians to stay out of the Vieques matter.”"
+          "text": " The Crucians did not return to St. Croix until Monday—two days after being arrested (Figure 1). The Crucians’ attorney filed a suit against the San Juan magistrate and clerks, citing Crucian rights had been violated. “According to a report on the incident heard on Puerto Rican station Channel 2’s evening newscast, the strange legal proceedings may have been a ‘pressure tactic’ used to persuade Crucians to stay out of the Vieques matter.”"
         },
         {
           "type": "link",
@@ -179,7 +187,7 @@
     {
       "type": "image",
       "url": "https://archive.org/download/crucian-crusaders-1979/Crucian%20Crusaders%201979.png",
-      "caption": "Crucian Crusaders returning to St. Croix after being arrested in Vieques on May 19, 1979. Photo from The St. Croix Avis issue published on December 31, 1979.",
+      "caption": "Figure 2 Crucian Crusaders returning to St. Croix after being arrested in Vieques on May 19, 1979. Photo from The St. Croix Avis issue published on December 31, 1979.",
       "children": [
         {
           "text": ""
@@ -660,6 +668,6 @@
   "slug": "may-19-1979-the-vieques-21-and-crucian-pre",
   "created_at": "2025-12-08T00:49:55.845Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-12-09T20:21:13.373Z",
+  "updated_at": "2025-12-09T20:27:32.383Z",
   "updated_by": "DarinelleMC"
 }
