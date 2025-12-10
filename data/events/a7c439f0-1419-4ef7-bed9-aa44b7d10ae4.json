@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "4b3477b0-dd3f-45b6-a805-071d54f18141": {
+      "label": "The Battle of Vieques (1986)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=gVPZxgyPpU8",
+      "duration": 2435
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "The Battle of Vieques (1986)",
+  "created_at": "2025-12-10T20:17:45.510Z",
+  "created_by": "DarinelleMC",
+  "updated_at": "2025-12-10T20:17:45.510Z",
+  "updated_by": "DarinelleMC"
+}
