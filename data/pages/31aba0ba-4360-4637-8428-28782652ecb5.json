@@ -88,6 +88,19 @@
       ]
     },
     {
+      "uuid": "a7c439f0-1419-4ef7-bed9-aa44b7d10ae4",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -104,6 +117,6 @@
   "slug": "the-us-navy-occupation-and-protest",
   "created_at": "2025-11-12T16:38:02.942Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-12-10T20:10:44.430Z",
+  "updated_at": "2025-12-10T20:18:36.215Z",
   "updated_by": "DarinelleMC"
 }
