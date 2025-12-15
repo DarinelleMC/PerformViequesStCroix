@@ -4,23 +4,83 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Introduction: ",
-          "bold": true
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "what"
-        },
+          "text": "Introduction:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
           "bold": true,
-          "text": " is USVI-PR Friendship "
-        },
-        {
-          "text": "day? what is done to celebrate it?"
+          "text": ""
         }
       ]
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "a71e8e68-7f9d-4aec-9ab4-80fcddad98d9",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "start": 165,
+      "end": 495,
+      "file": "efe62fce-4df6-4c39-92ba-c9f8d2e55ec3",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -32,14 +92,6 @@
       "children": [
         {
           "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Short video/examples of celebrations below (AV material) "
         }
       ]
     }
@@ -52,6 +104,6 @@
   "slug": "us-virgin-islands-and-puerto-rico-friendshi",
   "created_at": "2025-11-12T17:43:31.340Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-11-14T20:12:49.746Z",
+  "updated_at": "2025-12-15T20:44:10.342Z",
   "updated_by": "DarinelleMC"
 }
