@@ -84,6 +84,40 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Examples of USVI - P.R. Friendship Day Celebrations: ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "U.S. Virgin Islands and Puerto Rico Friendship Day",
@@ -94,6 +128,6 @@
   "slug": "us-virgin-islands-and-puerto-rico-friendshi",
   "created_at": "2025-11-12T17:43:31.340Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-12-17T16:07:51.959Z",
+  "updated_at": "2025-12-17T17:25:40.916Z",
   "updated_by": "DarinelleMC"
 }
