@@ -118,6 +118,103 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "42937266-9a61-4e7b-ae71-3245e2ef32a0",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "a011d45a-be1e-4c22-abe4-b270affe31c6",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "d95b7f4d-48a4-4253-8009-8c43987dc7ca",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "U.S. Virgin Islands and Puerto Rico Friendship Day",
@@ -128,6 +225,6 @@
   "slug": "us-virgin-islands-and-puerto-rico-friendshi",
   "created_at": "2025-11-12T17:43:31.340Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-12-17T17:25:40.916Z",
+  "updated_at": "2025-12-17T17:36:52.339Z",
   "updated_by": "DarinelleMC"
 }
