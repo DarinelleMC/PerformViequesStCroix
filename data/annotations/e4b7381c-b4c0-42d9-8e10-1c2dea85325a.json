@@ -1,1 +1,151 @@
-{"annotations":[],"set":"Default","event_id":"a71e8e68-7f9d-4aec-9ab4-80fcddad98d9","source_id":"efe62fce-4df6-4c39-92ba-c9f8d2e55ec3"}
+{
+  "annotations": [
+    {
+      "start_time": 175,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As many of the Puerto Ricans and Puerto-Crucians in this video illustrate, a large part of the Puerto Rican diaspora in St. Croix comes from Vieques. Due to several waves of migration catalyzed by the sugar cane and oil industries, the expropriation and displacement of Viequenses by the U.S. Navy, and other socio-economic factors, Viequenses migrated in large numbers to St. Croix throughout the 20th century. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Historical Information"
+        },
+        {
+          "category": "Military or Government",
+          "tag": "US Navy"
+        }
+      ],
+      "uuid": "b4fa6877-92c9-435d-a003-4543efd87f26"
+    },
+    {
+      "start_time": 312,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pitorro is a popular Puerto Rican moonshine rum often infused with fruits like coconut. In Vieques, pitorro is called bilí and it is typically infused with quenepas, also called mamoncillo or guinep. These small, lime-like fruits are common throughout the Caribbean. As shown in the video, the rum is infused with quenepas and consumed in small shots. The availability of this drink in St. Croix demonstrates the influence of Viequense migration to the island, as well as the embodied traditions that shape cultural connections between the USVI and PR. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Cultural Context"
+        }
+      ],
+      "uuid": "6932f419-7a38-420d-a848-aa09be9cbb10"
+    },
+    {
+      "start_time": 381,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The different foods shown in this segment (pork, rice and beans, and \"guineo escabeche\" which are pickled or marinated bananas) are commonly consumed in Puerto Rico. Their presence in St. Croix shows the presence of the Puerto Rican diaspora in the USVI. Moreover, the surprise expressed by the narrators of the video at seeing such foods in St. Croix points to the lack of awareness of diasporic Caribbean connections within the U.S. empire. The Puerto Rican diaspora is typically studied in the context of the continental U.S. But, as evident in this video, diasporas and intra-colonial connections exist beyond the imperial metropole. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Cultural Context"
+        }
+      ],
+      "uuid": "4679d57c-e532-4b25-b983-89eedee9b45c"
+    },
+    {
+      "start_time": 446,
+      "end_time": 495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the speaker, Senator Bolques, explains, USVI - P.R. Friendship Day is a local holiday that celebrates the cultural and historical connections between P.R. and the USVI. Through parades, dance, music, food, and other cultural events, Virgin Islanders celebrate Puerto Rican heritage in the USVI and the broader connections to P.R. in October. This holiday has been celebrated for over 60 years. In the section below this video, examples of celebrations throughout the years are shown. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performance",
+          "tag": "Friendship Day"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Historical Information"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Cultural Context"
+        }
+      ],
+      "uuid": "403778e1-5450-4b00-a478-18880440355f"
+    }
+  ],
+  "set": "Default",
+  "event_id": "a71e8e68-7f9d-4aec-9ab4-80fcddad98d9",
+  "source_id": "efe62fce-4df6-4c39-92ba-c9f8d2e55ec3"
+}
