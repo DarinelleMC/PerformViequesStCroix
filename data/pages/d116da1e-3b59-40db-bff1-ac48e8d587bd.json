@@ -101,6 +101,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "After arrest, the Vieques 21 were charged with trespassing on federal property and all “reportedly refused to give their word that they would not return to Vieques.”"
         },
         {
@@ -835,6 +843,6 @@
   "slug": "may-19-1979-the-vieques-21-and-crucian-cru",
   "created_at": "2025-12-08T00:49:55.845Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-12-10T21:05:29.077Z",
+  "updated_at": "2025-12-17T15:10:47.573Z",
   "updated_by": "DarinelleMC"
 }
