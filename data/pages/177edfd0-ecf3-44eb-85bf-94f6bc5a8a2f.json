@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "d95b7f4d-48a4-4253-8009-8c43987dc7ca",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-12-17T17:33:19.704Z",
   "created_by": "DarinelleMC",
   "title": "Children's Video Explaining USVI - P.R. Friendship Day ",
   "slug": "childrens-video-explaining-usvi-pr-frien",
-  "updated_at": "2025-12-17T17:33:19.704Z",
+  "updated_at": "2025-12-17T17:33:32.624Z",
   "updated_by": "DarinelleMC",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "d95b7f4d-48a4-4253-8009-8c43987dc7ca"
   }
