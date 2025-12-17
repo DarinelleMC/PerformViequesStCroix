@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "7d405770-6d7f-4988-b7be-d1cc5f840940": {
+      "label": "USVI - P.R. 2018 Friendship Day Parade",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=SRBpsjns-08",
+      "duration": 162
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "2018 USVI - P.R. Friendship Day Parade in St. Croix",
+  "created_at": "2025-12-17T17:33:19.312Z",
+  "created_by": "DarinelleMC",
+  "updated_at": "2025-12-17T17:33:19.312Z",
+  "updated_by": "DarinelleMC"
+}

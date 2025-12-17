@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "75d8d25e-5c8b-4f7d-8da0-ff7d20ef2a51": {
+      "label": "2013 USVI - P.R. Friendship Day Celebrations",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=XyC-mULrFEs",
+      "duration": 105
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "2013 USVI - P.R. Friendship Day Celebrations in St. Croix",
+  "created_at": "2025-12-17T17:33:19.312Z",
+  "created_by": "DarinelleMC",
+  "updated_at": "2025-12-17T17:33:19.312Z",
+  "updated_by": "DarinelleMC"
+}

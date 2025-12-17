@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "f2e2c123-8d39-4acb-a916-91848dcb3156": {
+      "label": "Children's Video Explaining USVI - P.R. Friendship Day ",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=ft_RJ4kCv8o",
+      "duration": 224
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Children's Video Explaining USVI - P.R. Friendship Day ",
+  "created_at": "2025-12-17T17:33:19.312Z",
+  "created_by": "DarinelleMC",
+  "updated_at": "2025-12-17T17:33:19.312Z",
+  "updated_by": "DarinelleMC"
+}
