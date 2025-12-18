@@ -250,7 +250,7 @@
     {
       "type": "image",
       "url": "https://caribbeandiasporaproject.org/wp-content/uploads/2019/06/ScreenShot_MicroProject_LowellFiet.png",
-      "caption": "Figure 1 Map of carnivals from Haiti to Barbados",
+      "caption": "Figure 1 Map of Carnivals from Haiti to Barbados",
       "children": [
         {
           "text": ""
@@ -624,6 +624,6 @@
   "slug": "calypso-and-carnival",
   "created_at": "2025-11-12T16:38:34.749Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-12-18T19:03:03.968Z",
+  "updated_at": "2025-12-18T19:05:05.688Z",
   "updated_by": "DarinelleMC"
 }
