@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "66f9d80a-e6cc-49b8-82ea-14cb46020c3e": {
+      "label": "Vieques Calypso Brass (1986) - My Donkey",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=-zkPV2KiY3c",
+      "duration": 217
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Vieques Calypso Brass (1986) - My Donkey",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vieques Calypso Brass performing on the Puerto Rican show \"El Show de las 12.\""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-12-18T18:57:50.278Z",
+  "created_by": "DarinelleMC",
+  "updated_at": "2025-12-18T18:57:50.278Z",
+  "updated_by": "DarinelleMC"
+}
