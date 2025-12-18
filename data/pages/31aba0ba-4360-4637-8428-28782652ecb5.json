@@ -143,97 +143,6 @@
                   "text": ""
                 }
               ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Notes:",
-                  "bold": true
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                },
-                {
-                  "type": "link",
-                  "url": "applewebdata://4468E7C9-2414-4293-9691-77E4D00993E4#_ftnref1",
-                  "children": [
-                    {
-                      "text": "[1]"
-                    }
-                  ]
-                },
-                {
-                  "text": " Marie Cruz Soto, “Inhabiting Isla Nena, 1514-2003: Island Narrations, Imperial Dramas and Vieques, Puerto Rico” (Dissertation, The University of Michigan, 2008), 196."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                },
-                {
-                  "type": "link",
-                  "url": "applewebdata://4468E7C9-2414-4293-9691-77E4D00993E4#_ftnref2",
-                  "children": [
-                    {
-                      "text": "[2]"
-                    }
-                  ]
-                },
-                {
-                  "text": " Frances Olsen, “Civil Disobedience on Vieques: How Nonviolence Defeated the U.S. Military,” "
-                },
-                {
-                  "text": "Florida Journal of International Law",
-                  "italic": true
-                },
-                {
-                  "text": " 16, no. 3 (2004): 547–60."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                },
-                {
-                  "type": "link",
-                  "url": "applewebdata://0CE128B4-F502-4353-A86E-38D6B868FFDC#_ftnref1",
-                  "children": [
-                    {
-                      "text": "[3]"
-                    }
-                  ]
-                },
-                {
-                  "text": " Wilfred Chan, “‘I Thought They’d Kill Us’: How the US Navy Devastated a Tiny Puerto Rican Island,” US News, "
-                },
-                {
-                  "text": "The Guardian",
-                  "italic": true
-                },
-                {
-                  "text": ", May 1, 2023, https://www.theguardian.com/world/2023/apr/30/vieques-puerto-rico-us-navy-base-training."
-                }
-              ]
             }
           ]
         },
@@ -287,14 +196,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "uuid": "a7c439f0-1419-4ef7-bed9-aa44b7d10ae4",
       "includes": [
         "media"
@@ -313,6 +214,97 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Notes:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "applewebdata://4468E7C9-2414-4293-9691-77E4D00993E4#_ftnref1",
+          "children": [
+            {
+              "text": "[1]"
+            }
+          ]
+        },
+        {
+          "text": " Marie Cruz Soto, “Inhabiting Isla Nena, 1514-2003: Island Narrations, Imperial Dramas and Vieques, Puerto Rico” (Dissertation, The University of Michigan, 2008), 196."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "applewebdata://4468E7C9-2414-4293-9691-77E4D00993E4#_ftnref2",
+          "children": [
+            {
+              "text": "[2]"
+            }
+          ]
+        },
+        {
+          "text": " Frances Olsen, “Civil Disobedience on Vieques: How Nonviolence Defeated the U.S. Military,” "
+        },
+        {
+          "text": "Florida Journal of International Law",
+          "italic": true
+        },
+        {
+          "text": " 16, no. 3 (2004): 547–60."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "applewebdata://0CE128B4-F502-4353-A86E-38D6B868FFDC#_ftnref1",
+          "children": [
+            {
+              "text": "[3]"
+            }
+          ]
+        },
+        {
+          "text": " Wilfred Chan, “‘I Thought They’d Kill Us’: How the US Navy Devastated a Tiny Puerto Rican Island,” US News, "
+        },
+        {
+          "text": "The Guardian",
+          "italic": true
+        },
+        {
+          "text": ", May 1, 2023, https://www.theguardian.com/world/2023/apr/30/vieques-puerto-rico-us-navy-base-training."
+        }
+      ]
     }
   ],
   "title": "The U.S. Navy: Occupation and Protest",
@@ -323,6 +315,6 @@
   "slug": "the-us-navy-occupation-and-protest",
   "created_at": "2025-11-12T16:38:02.942Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-12-17T15:10:20.355Z",
+  "updated_at": "2025-12-18T19:11:25.806Z",
   "updated_by": "DarinelleMC"
 }
