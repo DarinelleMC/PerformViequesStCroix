@@ -22,7 +22,6 @@
       "type": "paragraph",
       "children": [
         {
-          "bold": true,
           "text": ""
         }
       ]
@@ -31,7 +30,61 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Calypso first originated in Trinidad, in the southeastern part of the Caribbean, near South America. "
+          "text": "Calypso first originated in Trinidad, in the southeastern part of the Caribbean, near South America. Derived from West African traditions brought to the Caribbean by enslaved people, Calypso, or "
+        },
+        {
+          "text": "kaisos",
+          "italic": true
+        },
+        {
+          "text": ", \"were performed by a "
+        },
+        {
+          "text": "griot",
+          "italic": true
+        },
+        {
+          "text": " or chantwell"
+        },
+        {
+          "text": ", ",
+          "italic": true
+        },
+        {
+          "text": "a local bard who told stories in song, offering social commentary through praise, satire or lament. Their lyrics often mocked slave masters and would be recited at the harvest festival of Canboulay, a parallel with the pre-Lent Carnival, from which even freed slaves were barred. In 1881, percussion was banned by the British colonial authorities, which resulted in the innovation of steel pan music, initially consisting of frying pans, dustbin lids and oil drums.”"
+        },
+        {
+          "type": "link",
+          "url": "applewebdata://81DFA43D-5C42-49C6-8533-158D5FD33306#_ftn1",
+          "children": [
+            {
+              "text": "[1]"
+            }
+          ]
+        },
+        {
+          "text": " Although calypso is performed during carnival and often conveys joy, its content also engages with the wider socio-political landscape. From commenting on local Trinidadian politics, to racial segregation in the U.S. South, to critiques of Britain, calypso music has covered a wide range of topics that engage with fraught socio-political realities."
+        },
+        {
+          "type": "link",
+          "url": "applewebdata://B4ABA63D-CD5C-4B8D-BBC8-804BFEAE7104#_ftn1",
+          "children": [
+            {
+              "text": "[2]"
+            }
+          ]
+        },
+        {
+          "text": " "
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -39,8 +92,91 @@
       "type": "paragraph",
       "children": [
         {
-          "bold": true,
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Notes:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "applewebdata://81DFA43D-5C42-49C6-8533-158D5FD33306#_ftnref1",
+          "children": [
+            {
+              "text": "[1]"
+            }
+          ]
+        },
+        {
+          "text": " Benjamin Ramm, “The Subversive Power of Calypso Music,” "
+        },
+        {
+          "text": "BBC",
+          "italic": true
+        },
+        {
+          "text": ", October 11, 2017, https://www.bbc.com/culture/article/20171010-the-surprising-politics-of-calypso."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "applewebdata://B4ABA63D-CD5C-4B8D-BBC8-804BFEAE7104#_ftnref1",
+          "children": [
+            {
+              "text": "[2]"
+            }
+          ]
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Ibid.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     }
@@ -53,6 +189,6 @@
   "slug": "calypso-and-carnival",
   "created_at": "2025-11-12T16:38:34.749Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-12-18T17:31:56.258Z",
+  "updated_at": "2025-12-18T17:53:26.605Z",
   "updated_by": "DarinelleMC"
 }
