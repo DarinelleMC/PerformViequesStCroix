@@ -282,6 +282,88 @@
       ]
     },
     {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "522f7be2-5476-4204-8ce5-7004970bdc40",
+      "includes": [
+        "media",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "47b5de0e-79c1-4a24-8ad4-bd4821d6a75f",
+      "includes": [
+        "media",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -543,6 +625,6 @@
   "slug": "calypso-and-carnival",
   "created_at": "2025-11-12T16:38:34.749Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-12-18T18:56:07.981Z",
+  "updated_at": "2025-12-18T18:58:54.109Z",
   "updated_by": "DarinelleMC"
 }
