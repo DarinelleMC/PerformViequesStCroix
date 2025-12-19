@@ -1,5 +1,88 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 14,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The speaker in this segment states the USVI - P.R. Friendship Day celebration is called \"Fiesta en el Batey.\" A \"Batey\" refers to a sacred space or plaza where the indigenous Taínos of the Caribbean would meet or play ball games. The Taínos inhabited present-day Puerto Rico, the USVI, and several other Caribbean islands. \"Fiesta en el Batey\" thus translates to Part in the Batey. This detail articulates a past, pre-colonial connection between P.R. and the USVI."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performance",
+          "tag": "Friendship Day"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Cultural Context"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Historical Information"
+        }
+      ],
+      "uuid": "8ffa8ba6-b2d4-4651-aa27-ac044883bf75"
+    },
+    {
+      "start_time": 72,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this segment, quadrille and bomba dances are shown. Quadrille, typically danced in the USVI, and bomba, typically danced in P.R., are considered traditional dances in each territory. Both dances have African roots and, for many, are representative of struggle and resistance. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performance",
+          "tag": "Friendship Day"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Cultural Context"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Historical Information"
+        }
+      ],
+      "uuid": "a8fa8443-65e3-48d2-bf84-15b6cd93a1d7"
+    }
+  ],
   "set": "Default",
   "event_id": "a011d45a-be1e-4c22-abe4-b270affe31c6",
   "source_id": "75d8d25e-5c8b-4f7d-8da0-ff7d20ef2a51"
