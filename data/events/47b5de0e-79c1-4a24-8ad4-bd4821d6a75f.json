@@ -5,7 +5,8 @@
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=ZqHmshcVPEM&list=RDZqHmshcVPEM&start_radio=1",
-      "duration": 189
+      "duration": 188,
+      "duration_overridden": true
     }
   },
   "auto_generate_web_page": true,
@@ -22,7 +23,7 @@
   ],
   "created_at": "2025-12-18T18:57:50.278Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-12-19T22:34:17.655Z",
+  "updated_at": "2025-12-19T22:34:40.266Z",
   "updated_by": "DarinelleMC",
   "av_file_order": [
     "a5993998-ca0d-4021-815c-6356adfdf71e"
