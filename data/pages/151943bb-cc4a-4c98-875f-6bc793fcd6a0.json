@@ -12,6 +12,21 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "The short film "
+        },
+        {
+          "text": "Vieques, manos arriba",
+          "italic": true
+        },
+        {
+          "text": " shown below describes the history of calypso in Vieques. Through an interaction between Virgin Islanders from St. Croix and Viequenses in the 1950s, calypso was brought to the island. From then on, through organized bands, carnivals, and music education, calypso has retained a vital role in Vieques. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -237,7 +252,7 @@
   "created_by": "DarinelleMC",
   "title": "Short Film: Vieques, manos arriba",
   "slug": "short-film-vieques-manos-arriba",
-  "updated_at": "2025-11-14T15:16:04.046Z",
+  "updated_at": "2025-12-19T23:24:01.862Z",
   "updated_by": "DarinelleMC",
   "parent": "c1b2d843-ffea-4076-9642-385a635b8d66",
   "autogenerate": {
