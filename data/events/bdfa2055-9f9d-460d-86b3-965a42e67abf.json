@@ -3,7 +3,7 @@
     "930d53e2-c801-4c5c-9e14-335086e813d7": {
       "label": "Test_1",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=4s7cUOtOQwE&list=RD4s7cUOtOQwE&start_radio=1",
       "duration": 189,
       "caption_set": [],
@@ -29,6 +29,6 @@
   ],
   "created_at": "2025-12-19T23:02:18.083Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-12-19T23:05:58.159Z",
+  "updated_at": "2025-12-19T23:06:12.460Z",
   "updated_by": "DarinelleMC"
 }
