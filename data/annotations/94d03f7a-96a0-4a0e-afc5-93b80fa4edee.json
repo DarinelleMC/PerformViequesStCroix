@@ -1,5 +1,117 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this 2018 parade celebrating USVI - P.R. Friendship Day, we can hear calypso music throughout the video."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performance",
+          "tag": "Calypso"
+        },
+        {
+          "category": "Performance",
+          "tag": "Friendship Day"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "9d322418-f6d0-4643-8c17-fe04b9f478bd"
+    },
+    {
+      "start_time": 59,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During this segment, the USVI - P.R. Friendship Day Queen is seen waving the flags of the USVI, P.R., and the USA. In what ways does this performance embody coloniality? How can solidarity help us look beyond the mediating force of the imperial center (continental U.S.)? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performance",
+          "tag": "Friendship Day"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Theme",
+          "tag": "Solidarity"
+        }
+      ],
+      "uuid": "5c201391-cb13-40fa-a698-e713c54de830"
+    },
+    {
+      "start_time": 151,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this segment, people are dressed in traditional quadrille attire. Quadrille is a dance originating from France that is usually accompanied by quelbe music, a Caribbean genre that originated from enslaved African people. Quadrille and quelbe are commonly danced and performed in St. Croix. In this part of the parade's procession, we see an example of local Virgin Islands cultural practices through quadrille. Friendship Day celebrations often included quadrille dancing and bomba, a traditional Puerto Rican dance. For more information, refer to the second video (2013 celebration) and the annotation at 1:12. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performance",
+          "tag": "Friendship Day"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Cultural Context"
+        }
+      ],
+      "uuid": "4df335fa-4d9c-4d3b-bd18-9a1e333591d0"
+    }
+  ],
   "set": "Default",
   "event_id": "42937266-9a61-4e7b-ae71-3245e2ef32a0",
   "source_id": "7d405770-6d7f-4988-b7be-d1cc5f840940"
