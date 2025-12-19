@@ -96,10 +96,11 @@
                 },
                 {
                   "bold": true,
-                  "text": "• May 19, 1979 - The Vieques 21 and Crucian Crusaders",
+                  "text": ">>> May 19, 1979 - The Vieques 21 and Crucian Crusaders",
                   "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/may-19-1979-the-vieques-21-and-crucian-cru/"
                 }
-              ]
+              ],
+              "align": "left"
             },
             {
               "type": "paragraph",
@@ -120,10 +121,11 @@
                 },
                 {
                   "bold": true,
-                  "text": "• Short Film: Vieques, manos arriba",
+                  "text": ">>> Short Film: Vieques, manos arriba",
                   "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/short-film-vieques-manos-arriba/"
                 }
-              ]
+              ],
+              "align": "left"
             },
             {
               "type": "paragraph",
@@ -170,9 +172,11 @@
               "children": [
                 {
                   "text": "For navigation, please refer to the above Table of Contents or select the three horizontal lines in the upper left corner to view all navigation panes.",
-                  "italic": true
+                  "italic": true,
+                  "textSize": "small"
                 }
-              ]
+              ],
+              "align": "left"
             }
           ]
         },
@@ -542,7 +546,7 @@
   "created_at": "2025-11-11T18:24:01.461Z",
   "created_by": "DarinelleMC",
   "title": "Vieques and St. Croix: Performing Solidarity in the Periphery of the U.S. Empire",
-  "updated_at": "2025-12-19T19:43:08.868Z",
+  "updated_at": "2025-12-19T19:50:19.571Z",
   "updated_by": "DarinelleMC",
   "autogenerate": {
     "enabled": false,
