@@ -61,7 +61,8 @@
               "children": [
                 {
                   "text": "Introduction: A Brief History",
-                  "textSize": "heading-four"
+                  "bold": true,
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/"
                 }
               ]
             },
@@ -69,8 +70,9 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "What is Performance Studies?",
-                  "textSize": "heading-four"
+                  "text": "What is Performance Studies",
+                  "bold": true,
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/what-is-performance-studies/"
                 }
               ]
             },
@@ -79,7 +81,8 @@
               "children": [
                 {
                   "text": "The U.S. Navy: Occupation and Protest",
-                  "textSize": "heading-four"
+                  "bold": true,
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/the-us-navy-occupation-and-protest/"
                 }
               ]
             },
@@ -87,17 +90,14 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "    • Protest on May 19,1979",
-                  "textSize": "heading-four"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "bold": true,
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/the-us-navy-occupation-and-protest/",
+                  "text": "     "
+                },
                 {
-                  "text": "    • The U.S. Navy in Vieques: Trouble in Paradise",
-                  "textSize": "heading-four"
+                  "bold": true,
+                  "text": "• May 19, 1979 - The Vieques 21 and Crucian Crusaders",
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/may-19-1979-the-vieques-21-and-crucian-cru/"
                 }
               ]
             },
@@ -106,7 +106,8 @@
               "children": [
                 {
                   "text": "Calypso and Carnival",
-                  "textSize": "heading-four"
+                  "bold": true,
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/calypso-and-carnival/"
                 }
               ]
             },
@@ -114,8 +115,13 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "    • Vieques, Manos Arriba",
-                  "textSize": "heading-four"
+                  "text": "     ",
+                  "bold": true
+                },
+                {
+                  "bold": true,
+                  "text": "• Short Film: Vieques, manos arriba",
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/short-film-vieques-manos-arriba/"
                 }
               ]
             },
@@ -124,16 +130,8 @@
               "children": [
                 {
                   "text": "U.S. Virgin Islands and Puerto Rico Friendship Day",
-                  "textSize": "heading-four"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "    • ",
-                  "textSize": "heading-four"
+                  "bold": true,
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/us-virgin-islands-and-puerto-rico-friendshi/"
                 }
               ]
             },
@@ -142,7 +140,37 @@
               "children": [
                 {
                   "text": "Conclusion",
-                  "textSize": "heading-four"
+                  "bold": true,
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/conclusion/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Bibliography",
+                  "bold": true,
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/bibliography/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/bibliography/",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For navigation, please refer to the above Table of Contents or select the three horizontal lines in the upper left corner to view all navigation panes.",
+                  "italic": true
                 }
               ]
             }
@@ -514,7 +542,7 @@
   "created_at": "2025-11-11T18:24:01.461Z",
   "created_by": "DarinelleMC",
   "title": "Vieques and St. Croix: Performing Solidarity in the Periphery of the U.S. Empire",
-  "updated_at": "2025-11-14T20:00:51.623Z",
+  "updated_at": "2025-12-19T19:43:08.868Z",
   "updated_by": "DarinelleMC",
   "autogenerate": {
     "enabled": false,
