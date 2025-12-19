@@ -62,7 +62,8 @@
                 {
                   "text": "Introduction: A Brief History",
                   "bold": true,
-                  "link": "https://darinellemc.github.io/PerformViequesStCroix/"
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/",
+                  "underline": true
                 }
               ]
             },
@@ -72,7 +73,8 @@
                 {
                   "text": "What is Performance Studies",
                   "bold": true,
-                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/what-is-performance-studies/"
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/what-is-performance-studies/",
+                  "underline": true
                 }
               ]
             },
@@ -82,7 +84,8 @@
                 {
                   "text": "The U.S. Navy: Occupation and Protest",
                   "bold": true,
-                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/the-us-navy-occupation-and-protest/"
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/the-us-navy-occupation-and-protest/",
+                  "underline": true
                 }
               ]
             },
@@ -97,7 +100,8 @@
                 {
                   "bold": true,
                   "text": ">>> May 19, 1979 - The Vieques 21 and Crucian Crusaders",
-                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/may-19-1979-the-vieques-21-and-crucian-cru/"
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/may-19-1979-the-vieques-21-and-crucian-cru/",
+                  "italic": true
                 }
               ],
               "align": "left"
@@ -108,7 +112,8 @@
                 {
                   "text": "Calypso and Carnival",
                   "bold": true,
-                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/calypso-and-carnival/"
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/calypso-and-carnival/",
+                  "underline": true
                 }
               ]
             },
@@ -122,7 +127,8 @@
                 {
                   "bold": true,
                   "text": ">>> Short Film: Vieques, manos arriba",
-                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/short-film-vieques-manos-arriba/"
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/short-film-vieques-manos-arriba/",
+                  "italic": true
                 }
               ],
               "align": "left"
@@ -133,7 +139,8 @@
                 {
                   "text": "U.S. Virgin Islands and Puerto Rico Friendship Day",
                   "bold": true,
-                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/us-virgin-islands-and-puerto-rico-friendshi/"
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/us-virgin-islands-and-puerto-rico-friendshi/",
+                  "underline": true
                 }
               ]
             },
@@ -143,7 +150,8 @@
                 {
                   "text": "Conclusion",
                   "bold": true,
-                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/conclusion/"
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/conclusion/",
+                  "underline": true
                 }
               ]
             },
@@ -153,7 +161,8 @@
                 {
                   "text": "Bibliography",
                   "bold": true,
-                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/bibliography/"
+                  "link": "https://darinellemc.github.io/PerformViequesStCroix/pages/bibliography/",
+                  "underline": true
                 }
               ]
             },
@@ -546,7 +555,7 @@
   "created_at": "2025-11-11T18:24:01.461Z",
   "created_by": "DarinelleMC",
   "title": "Vieques and St. Croix: Performing Solidarity in the Periphery of the U.S. Empire",
-  "updated_at": "2025-12-19T19:50:19.571Z",
+  "updated_at": "2025-12-19T19:55:19.324Z",
   "updated_by": "DarinelleMC",
   "autogenerate": {
     "enabled": false,
