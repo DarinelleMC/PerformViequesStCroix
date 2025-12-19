@@ -1,1 +1,143 @@
-{"annotations":[],"set":"Default","event_id":"a7c439f0-1419-4ef7-bed9-aa44b7d10ae4","source_id":"4b3477b0-dd3f-45b6-a805-071d54f18141"}
+{
+  "annotations": [
+    {
+      "start_time": 288,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This segment provides information on how the US Navy established its foothold in Vieques and the consequences of expropriation on local Viequenses. Many viequenses lost their homes and livelihoods during Navy expropriation. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Military or Government",
+          "tag": "US Navy"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Historical Information"
+        }
+      ],
+      "uuid": "60ef186a-d9a9-458f-a766-6405d2aeee4b"
+    },
+    {
+      "start_time": 467,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Navy expropriation led to an exodus of Viequenses to several places spanning the continental U.S., the main island of P.R., and the U.S. Virgin Islands. A large number of Viequenses migrated to St. Croix during this time. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Military or Government",
+          "tag": "US Navy"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Historical Information"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "6d515a84-89dc-4cf2-8d3c-1c645bbf9ac9"
+    },
+    {
+      "start_time": 782,
+      "end_time": 820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Allies of the US also used naval installments in Vieques for training; making the island and its waters an international military training zone. Vieques is also used as a launching site for interventions in other Caribbean and Latin American countries."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Military or Government",
+          "tag": "US Navy"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Historical Information"
+        }
+      ],
+      "uuid": "9a62587a-4ce0-4ec8-aa63-e99da59dc15f"
+    },
+    {
+      "start_time": 1246,
+      "end_time": 1300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More detailed coverage of the May 19, 1979 protest this project spotlights is in the \"May 19, 1979 - The Vieques 21 and Crucian Crusaders\" tab. Please refer to the tab for more information."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Military or Government",
+          "tag": "US Navy"
+        },
+        {
+          "category": "Performance",
+          "tag": "Protest"
+        },
+        {
+          "category": "Theme",
+          "tag": "Solidarity"
+        }
+      ],
+      "uuid": "ca87a07c-5982-40f5-be5e-9a4429c5b465"
+    }
+  ],
+  "set": "Default",
+  "event_id": "a7c439f0-1419-4ef7-bed9-aa44b7d10ae4",
+  "source_id": "4b3477b0-dd3f-45b6-a805-071d54f18141"
+}
