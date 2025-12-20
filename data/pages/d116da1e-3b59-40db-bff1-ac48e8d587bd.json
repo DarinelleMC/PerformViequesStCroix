@@ -484,228 +484,8 @@
                 {
                   "text": ""
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Transcription of monument text:"
-                }
               ],
               "align": "center"
-            },
-            {
-              "type": "grid",
-              "layout": [
-                3,
-                3
-              ],
-              "children": [
-                {
-                  "type": "column",
-                  "children": [
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": "Español (original):",
-                          "bold": true
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": "La Asociación de Pescadores de Vieques, Inc. honra la memoria de:"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": "Ángel Rodríguez Cristóbal "
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": "1946 - 1979 "
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": "“Cuando se lucha por algo justo, no hay que temerle a nada.” "
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": "Ángel Rodríguez Cristóbal, nació el 2 de abril de 1946 en Ciales, Puerto Rico. A los 18 años de edad ingresó al ejército de Estados Unidos. Estuvo activo durante tres años en el campo de batalla, donde conoció la injusticia cometida contra el pueblo de Vietnam. "
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": "Tras su regreso a Puerto Rico, se desempeñó como agricultor en el barrio Pozas de Ciales. Se involucró en los movimientos sociales y políticos de su pueblo. En el 1972, ingresó al partido independentista puertorriqueño. "
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": "Mas tarde, en el 1974, se unió a la liga socialista puertorriqueña. Su militancia lo llevó, en el año 1978, a integrarse con los pescadores viequenses en su lucha contra la presencia de la marina de guerra de los Estados Unidos en Vieques. "
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": "Fue arrestado el 19 de mayo de 1979, junto a otros 20 manifestantes de un grupo de 200 personas que realizaban un acto religioso de resistencia pacífica en una playa de la zona ocupada por la marina de guerra. Un juez federal, lacayo de la marina, lo sentenció a 6 meses de cárcel en la prisión de Tallahassee, Florida. El 11 de Noviembre de 1979 fue asesinado en una celda de aislamiento. "
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": "Héroe y mártir, luchador incansable de la patria. "
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": "“...Al ser asesinado entra al panteón de los inmortales, cuya muerte define una situación en la historia de Puerto Rico.”     - Juan Antonio Corretjer "
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": "Barrio Esperanza Vieques, Puerto Rico"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": "18 de febrero de 2001 "
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "column",
-                  "children": [
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
             }
           ]
         }
@@ -716,6 +496,462 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transcription of the monument:"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Español (original):",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "La Asociación de Pescadores de Vieques, Inc. honra la memoria de:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Ángel Rodríguez Cristóbal "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1946 - 1979 "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "“Cuando se lucha por algo justo, no hay que temerle a nada.” "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Ángel Rodríguez Cristóbal, nació el 2 de abril de 1946 en Ciales, Puerto Rico. A los 18 años de edad ingresó al ejército de Estados Unidos. Estuvo activo durante tres años en el campo de batalla, donde conoció la injusticia cometida contra el pueblo de Vietnam. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Tras su regreso a Puerto Rico, se desempeñó como agricultor en el barrio Pozas de Ciales. Se involucró en los movimientos sociales y políticos de su pueblo. En el 1972, ingresó al partido independentista puertorriqueño. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Mas tarde, en el 1974, se unió a la liga socialista puertorriqueña. Su militancia lo llevó, en el año 1978, a integrarse con los pescadores viequenses en su lucha contra la presencia de la marina de guerra de los Estados Unidos en Vieques. \n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Fue arrestado el 19 de mayo de 1979, junto a otros 20 manifestantes de un grupo de 200 personas que realizaban un acto religioso de resistencia pacífica en una playa de la zona ocupada por la marina de guerra. Un juez federal, lacayo de la marina, lo sentenció a 6 meses de cárcel en la prisión de Tallahassee, Florida. El 11 de Noviembre de 1979 fue asesinado en una celda de aislamiento. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Héroe y mártir, luchador incansable de la patria. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "“...Al ser asesinado entra al panteón de los inmortales, cuya muerte define una situación en la historia de Puerto Rico.”     "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "- Juan Antonio Corretjer "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Barrio Esperanza Vieques, Puerto Rico"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "18 de febrero de 2001 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "English translation:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Vieques Fishermen's Association, Inc. honors the memory of:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Ángel Rodríguez Cristóbal"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1946 - 1979"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "“When you fight for something just, you have nothing to fear.”"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Ángel Rodríguez Cristóbal was born on April 2, 1946 in Ciales, Puerto Rico. At the age of 18, he joined the United States Army. He served for three years on the battlefield, where he witnessed the injustice committed against the people of Vietnam."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Upon his return to Puerto Rico, he worked as a farmer in the Pozas neighborhood of Ciales. He became involved in the social and political movements of his community. In 1972, he joined the Puerto Rican Independence Party."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Later, in 1974, he joined the Puerto Rican Socialist League. His activism led him, in 1978, to join the Vieques fishermen in their struggle against the presence of the United States Navy in Vieques."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "He was arrested on May 19, 1979, along with 20 other protesters from a group of 200 people who were holding a religious service of nonviolent resistance on a beach in an area occupied by the Navy. A federal judge, a lackey of the Navy, sentenced him to six months in prison in Tallahassee, Florida. On November 11, 1979, he was murdered in solitary confinement."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A hero and martyr, a tireless fighter for his homeland."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "“...By being murdered, he enters the pantheon of immortals, whose death defines a moment in the history of Puerto Rico.” "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "- Juan Antonio Corretjer"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Barrio Esperanza, Vieques, Puerto Rico"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "February 18, 2001"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1080,6 +1316,6 @@
   "slug": "may-19-1979-the-vieques-21-and-crucian-cru",
   "created_at": "2025-12-08T00:49:55.845Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2025-12-19T23:57:56.501Z",
+  "updated_at": "2025-12-20T00:08:04.694Z",
   "updated_by": "DarinelleMC"
 }
