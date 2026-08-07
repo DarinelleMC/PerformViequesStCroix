@@ -468,79 +468,39 @@
           ]
         },
         {
-          "text": "\n"
+          "text": ""
         }
-      ]
+      ],
+      "align": "center"
     },
     {
-      "type": "grid",
-      "layout": [
-        3,
-        3
-      ],
+      "type": "paragraph",
+      "align": "center",
       "children": [
         {
-          "type": "column",
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "applewebdata://359F3898-0B46-442E-9231-7DF613DBA072#_ftn3",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://ia800303.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/bulletin-january-february-1980/BulletinJanuaryFebruary1980_jp2.zip&file=BulletinJanuaryFebruary1980_jp2/BulletinJanuaryFebruary1980_0000.jp2&id=bulletin-january-february-1980&scale=8&rotate=0",
-              "caption": "Figure 2 Bulletin from 1980 commemorating Ángel Rodríguez Cristóbal",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
+              "text": ""
             }
           ]
         },
         {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5ZiMkNAtB-DIXVN1SBluorTM3wQne6ZX2XBRW8sNjWt8k5H1eU9URrrwPtdcpdAKoCw0fDXcFvt5PAuwiBbs3LzGGgWzpo-5pwv8tgXkJiyufJdRRTvWTE5iRh4B22GXnZ4S7Enda7_Y/s1600/vieques.jpg",
-              "caption": "Figure 3 Monument dedicated to Ángel in Vieques",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ],
-              "align": "center"
-            }
-          ]
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5ZiMkNAtB-DIXVN1SBluorTM3wQne6ZX2XBRW8sNjWt8k5H1eU9URrrwPtdcpdAKoCw0fDXcFvt5PAuwiBbs3LzGGgWzpo-5pwv8tgXkJiyufJdRRTvWTE5iRh4B22GXnZ4S7Enda7_Y/s1600/vieques.jpg",
+      "caption": "Figure 2 Monument dedicated to Ángel in Vieques",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -554,15 +514,18 @@
     },
     {
       "type": "paragraph",
+      "align": "center",
       "children": [
         {
-          "text": "Transcription of Ángel's monument:",
+          "text": "\n"
+        },
+        {
           "bold": true,
           "underline": true,
-          "italic": true
+          "italic": true,
+          "text": "Transcription of Ángel's monument:"
         }
-      ],
-      "align": "center"
+      ]
     },
     {
       "type": "paragraph",
@@ -1433,6 +1396,6 @@
   "slug": "may-19-1979-the-vieques-21-and-crucian-cru",
   "created_at": "2025-12-08T00:49:55.845Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2026-08-07T02:25:12.462Z",
+  "updated_at": "2026-08-07T02:35:34.794Z",
   "updated_by": "DarinelleMC"
 }
