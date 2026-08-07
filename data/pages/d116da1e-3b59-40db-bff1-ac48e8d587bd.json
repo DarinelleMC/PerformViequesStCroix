@@ -41,7 +41,7 @@
           ]
         },
         {
-          "text": "Those arrested later became known as the “Vieques 21.” My attention turns to one group of detainees in particular, however. Of the twenty-one detained, six were residents of the U.S. Virgin Island (USVI) of St. Croix. The six Crucians, who would later be known as the \"Crucian Crusaders,\" had been part of a delegation of roughly two dozen St. Croix residents that had traveled to Vieques to participate in the protest."
+          "text": "Those arrested later became known as the “Vieques 21.” My attention turns to one group of detainees in particular, however. Of the twenty-one detained, six were residents of the U.S. Virgin Island (USVI) of St. Croix. The six Crucians, who would later be known as the \"Crucian Crusaders,\" had been part of a delegation of roughly two dozen St. Croix residents that had traveled to Vieques to participate in the protest. At least one of the Crucian Crusaders, Jose Pereira, was originally from Vieques. Though some would argue St. Croix residents with Puerto Rican and/or Viequense heritage were motivated by their connections to Vieques, this protest allows us to nuance whom and when people are labeled and/or identify as Crucian, Puerto Rican, Viequense, or Crucian Rican."
         },
         {
           "type": "link",
@@ -53,7 +53,7 @@
           ]
         },
         {
-          "text": "I turn to the anti-Navy May 19th protest to highlight how St. Croix residents/Crucians of varied backgrounds, alongside other protesters, embodied solidarity on May 19, 1979. "
+          "text": "I turn to the anti-Navy May 19th protest to highlight how St. Croix residents/Crucians of varied backgrounds, alongside other protesters, embodied solidarity on May 19, 1979 under U.S. colonialism. May 19, 1979 allows us to glean the complex relationships between colonial subjects and their diasporas. "
         }
       ]
     },
@@ -69,12 +69,33 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The documentary below demonstrates the Virgin Islander presence on May 19th. Viewers can see USVI flags blowing in the background while police arrested protesters on the beach. "
+          "text": "The documentary below demonstrates the Virgin Islander presence on May 19th, Viequenses' lived experience under US Navy rule, the Navy's perspective, and the anti-Navy resistance coalitions that began intervening in the 1970s. "
         }
       ]
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "7994ab95-7e99-4c41-9039-75cf3219a521",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -1412,6 +1433,6 @@
   "slug": "may-19-1979-the-vieques-21-and-crucian-cru",
   "created_at": "2025-12-08T00:49:55.845Z",
   "created_by": "DarinelleMC",
-  "updated_at": "2026-08-06T19:13:30.668Z",
+  "updated_at": "2026-08-07T02:25:12.462Z",
   "updated_by": "DarinelleMC"
 }
