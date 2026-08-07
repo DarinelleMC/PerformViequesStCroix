@@ -1,5 +1,410 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 65,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rear Admiral Arthur Knoizen states there are no restrictions on Vieques' development in the \"area that the people live in.\" As Carlos Zenón sates, the Navy owned 26,000 of Vieques' 33,000 acres, leaving Viequenses with a very small area to live in. Moreover, the Navy's presence presented many dangers and impediments to Viequense autonomy over their own land and futures as both Carlos Zenón and Orlando Cruz, alongside many other perspectives in the documentary, demonstrate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Military or Government",
+          "tag": "US Navy"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        }
+      ],
+      "uuid": "69d79d33-77a3-46a2-bc9e-55f282b6cba5"
+    },
+    {
+      "start_time": 382,
+      "end_time": 410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This clip describes the devastating expropriations of Viequense land by the US Navy that began in the 1940s. Notably, among the places the Navy relocated or instigated the relocation of Viequenses was to St. Croix and other parts of the US Virgin Islands. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Military or Government",
+          "tag": "US Navy"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "U.S. Virgin Islands"
+        }
+      ],
+      "uuid": "ba484c13-a437-44eb-b064-e877b0003c46"
+    },
+    {
+      "start_time": 587,
+      "end_time": 622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The presence of the Navy, as Ismael Guadalupe describes, impeded Viequense educational and professional attainment. This is part of what fomented the emigration of Viequenses. Among the places Viequenses have emigrated to is the USVI. This clip showcases how emigration does not exist in a vacuum; in particular, how it manifests under U.S. colonial rule between its territories. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "Military or Government",
+          "tag": "US Navy"
+        }
+      ],
+      "uuid": "617589d5-04db-4709-9c8d-9632097dc117"
+    },
+    {
+      "start_time": 787,
+      "end_time": 806,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La Cruzada Pro Rescate de Vieques, or the Crusade to Save Vieques, was formed by fishermen, grassroot organizations, teachers, and other community members in response to the Navy's presence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Military or Government",
+          "tag": "US Navy"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Historical Information"
+        }
+      ],
+      "uuid": "84d82d63-5407-49fd-baae-f5d147b0fe1e"
+    },
+    {
+      "start_time": 807,
+      "end_time": 860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The United Nations Decolonization Committee held hearings on the Navy's adverse impacts on Vieques. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Military or Government",
+          "tag": "US Navy"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Historical Information"
+        }
+      ],
+      "uuid": "37afca28-19e1-4fc8-be79-6637eef54d2b"
+    },
+    {
+      "start_time": 861,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As this United Nations Decolonization Committee hearing on Vieques illustrates, protests against the Navy led by Viequense fishermen in the 1970s began to gain attention and traction. This clip also shows the legal limitations faced by the Viequense community in their efforts to challenge and oust the Navy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Military or Government",
+          "tag": "US Navy"
+        },
+        {
+          "category": "Performance",
+          "tag": "Protest"
+        }
+      ],
+      "uuid": "a7601d78-86f1-4054-b7f7-6b3d785d8d0a"
+    },
+    {
+      "start_time": 1003,
+      "end_time": 1022,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This clip shows footage from the May 19, 1979 encampment in Vieques, where 21 people, including 6 St. Croix residents, were arrested. Although the documentary does not explicitly mention Virgin Islanders, multiple USVI flags are seen planted on the beach, waving in the background. What does it mean for people from the USVI, with and without direct ties to Vieques or Puerto Rico, to show up and stand up for Vieques? Why is there no mention of them? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "Performance",
+          "tag": "Protest"
+        },
+        {
+          "category": "Theme",
+          "tag": "Solidarity"
+        }
+      ],
+      "uuid": "c3ed1649-4788-44b2-939f-c5f434e41dc1"
+    },
+    {
+      "start_time": 1023,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angel Rodriguez Cristobal was found dead in his Tallahassee prison cell while serving a 6 month prison sentence for his involvement in the encampment on May 19th. As seen in this clip, Angel Rodriguez Cristobal resisted arrest along with several other protesters. This is what the New York Times would later describe as a \"wild melee.\" Who is the actual wild melee? The protesters or the policemen and military forces they represent? For more on Angel's death, refer to minutes 21 to 23 in the documentary. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Military or Government",
+          "tag": "US Navy"
+        },
+        {
+          "category": "Performance",
+          "tag": "Protest"
+        }
+      ],
+      "uuid": "654c12d1-760f-4ae6-996e-cc7b742ee7ef"
+    },
+    {
+      "start_time": 1120,
+      "end_time": 1170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bishop Antulio Parrilla describes his participation on May 19th and what happened during their collective act of resistance, solidarity, and protest. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Military or Government",
+          "tag": "US Navy"
+        },
+        {
+          "category": "Performance",
+          "tag": "Protest"
+        },
+        {
+          "category": "Theme",
+          "tag": "Solidarity"
+        }
+      ],
+      "uuid": "d3559cc0-92b4-4453-bb0e-ef585b1dedde"
+    },
+    {
+      "start_time": 1171,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bishop Antulio Parrilla narrates how the police selectively arrested people who were not from Vieques in order to frame the protest as an outside agitation. Here it is important to ponder how these policemen identified who and who was not an outsider. What did this mean to enforcing divisions between the different islands that compose the Puerto Rican archipelago? What did this mean for enforcing boundaries between the USVI, the continental US, and Puerto Rico? Bishop Parrilla does not mention Virgin Islanders, but as the Crucians' arrest and the USVI flags show, they were there that day. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "Performance",
+          "tag": "Protest"
+        },
+        {
+          "category": "Theme",
+          "tag": "Solidarity"
+        }
+      ],
+      "uuid": "f767a48a-2ade-4db2-a7d5-ff1a350d2367"
+    },
+    {
+      "start_time": 1387,
+      "end_time": 1424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The attack by Puerto Rican pro-independence groups on a US Navy bus traveling in Puerto Rico in December 1979 was a response to the killing of Angel Rodriguez Cristobal and two more Puerto Rican young men at Cerro Maravilla in 1978. The documentary, however, does not mention that among the two killed during the ambush was one resident of St. Thomas, 20 year old Emil White. Another Virgin Islander, 20 year old Monique Ritter, resident of St. Croix, was critically injured during the attack. The US military enlists many territorial residents in its forces, often preying on precarious economic conditions (caused and/or excacerbated precisely by US imperialism) with the promise of stability. Though the US military exploits its members and those members, including territorial subjects, also help uphold the US empire, important for the scope of this project is the question of how to contemplate the tensions and nuances inherent in the fight for freedom. I am interested in the question of what it means for Puerto Rican independence groups to have harmed and killed Virgin Islanders in their struggle for their righteous cause. How does colonialism not only impact colonial subjects, but also how Virgin Islanders and Puerto Ricans relate to each other in their struggles for autonomy in whatever form it may take? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "U.S. Virgin Islands"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Military or Government",
+          "tag": "US Navy"
+        },
+        {
+          "category": "Background Information",
+          "tag": "Historical Information"
+        },
+        {
+          "category": "Theme",
+          "tag": "Solidarity"
+        }
+      ],
+      "uuid": "0b08e796-1fd7-4afc-a31b-fe33bfba1615"
+    },
+    {
+      "start_time": 1450,
+      "end_time": 1498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this clip, Bishop Parrilla talks about the attack on the bus having secured the safety of the 10 members of the Vieques 21 that were imprisoned. Thelast 6 of the 10 imprisoned were on his flight from San Juan to New York. Among the last 6 were 2 residents of the island of St. Croix, who chose imprisonment in defiance of US jurisdiction for their participation on May 19th. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Geographic Location",
+          "tag": "St. Croix"
+        },
+        {
+          "category": "Geographic Location",
+          "tag": "Vieques"
+        },
+        {
+          "category": "Theme",
+          "tag": "Solidarity"
+        },
+        {
+          "category": "Performance",
+          "tag": "Protest"
+        }
+      ],
+      "uuid": "694c74cf-9c78-4281-b4d6-83b2eb7b6e00"
+    }
+  ],
   "set": "Default",
   "event_id": "7994ab95-7e99-4c41-9039-75cf3219a521",
   "source_id": "8432b84f-5435-48f6-a590-67ee9f526ce3"
