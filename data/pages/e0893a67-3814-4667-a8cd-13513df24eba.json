@@ -1,0 +1,130 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Acknowledgements ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This page lists various resources, beyond those included in the bibliography, that have been crucial in the creation of this project. Behind every project, is a group of everyday people, archivists, librarians, students, teachers, administrators, digital experts, scholars, curators, artists, organizers, and many more people who directly and indirectly impact what is preserved, accessible, and how we understand it."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following libraries, archives, organizations, museums, and works were of great help to me and I am grateful to all the people behind their creation and administration: "
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Archivo Histórico de Vieques",
+              "link": "https://www.ahvpr.org"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Digital Library of the Caribbean (DLOC)",
+              "link": "https://dloc.com"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Vieques Struggle: A Digital Video Archive",
+              "link": "https://vieques.iac.gatech.edu"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Sugar Pathways (2010), dir. Johanna Bermudez Ruiz ",
+              "link": "https://www.imdb.com/title/tt2747886/"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "St. Croix Landmarks Society ",
+              "link": "https://www.stcroixlandmarks.org"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "University of the Virgin Islands, St. Croix Campus"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Florence Williams Public Library "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Fort Frederik Museum "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Acknowledgements",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "acknowledgements",
+  "created_at": "2026-08-12T19:04:29.397Z",
+  "created_by": "DarinelleMC",
+  "updated_at": "2026-08-12T19:04:29.397Z",
+  "updated_by": "DarinelleMC"
+}
